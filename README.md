@@ -9,7 +9,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="20" height="20">
 </a>
 <a href="https://discord.com/users/1302504919793668197" title="hyeonbin_jung">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" alt="Discord" width="20" height="20">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="20" height="20">
 </a>
 
 ---
