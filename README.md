@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/hyeonbin-jung-a49b79274/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="20" height="20">
 </a>
+
 ---
 
 **Languages**  
