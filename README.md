@@ -1,11 +1,9 @@
 
 
 ## Hyeonbin Jung
-h9jung@uwaterloo.ca
-
-(+1) 226-984-7026
-
-(+82) 10-9240-5276
+📧 h9jung@uwaterloo.ca  
+🇰🇷 (+1) 226-984-7026  
+🇨🇦 (+82) 10-9240-5276
 
 ---
 
@@ -22,9 +20,8 @@ h9jung@uwaterloo.ca
 ---
 
 ## Education
-[University of Waterloo](https://cs.uwaterloo.ca)  
-Major in Computer Science  
-Minor in Combinatorics and Optimization, Physics
+[University of Waterloo '27](https://cs.uwaterloo.ca)  
+Major: Computer Science | Minors: Combinatorics and Optimization, Physics
 
 ---
 
