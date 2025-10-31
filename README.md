@@ -8,6 +8,9 @@
 <a href="https://www.linkedin.com/in/hyeonbin-jung-a49b79274/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="20" height="20">
 </a>
+<a href="https://discord.com/users/1302504919793668197" title="hyeonbin_jung">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" alt="Discord" width="20" height="20">
+</a>
 
 ---
 
@@ -26,8 +29,8 @@
 ---
 
 ## Education
-[University of Waterloo '27](https://cs.uwaterloo.ca) 
-Cheriton School of Computer Science  
+[University of Waterloo '27](https://cs.uwaterloo.ca)   
+*Cheriton School of Computer Science*  
 Major: Computer Science | Minors: Combinatorics and Optimization, Physics
 
 ## Certifications
