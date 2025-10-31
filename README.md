@@ -34,3 +34,14 @@ Bachelor of Computer Science | Minors: Combinatorics and Optimization, Physics
 
 ## Certifications
 CFA Level I Passed
+
+
+## Employment
+[Yuanta Investment](http://yuantainvest.com/?ckattempt=1)  
+*Growth Capital Intern*
+
+[Deloitte Korea](https://www.deloitte.com/kr/ko.html)  
+*FA Deal General Intern*
+
+[Paratus Investment](https://www.paratusinvestment.com/)  
+*Private Equity Research Assistant*
