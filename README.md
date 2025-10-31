@@ -6,7 +6,9 @@
 🇰🇷 (+1) 226-984-7026  
 🇨🇦 (+82) 10-9240-5276
 
+
 ---
+
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,12 +22,15 @@
 **Cloud**  
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+
 ---
+
 
 ## Education
 [University of Waterloo '27](https://cs.uwaterloo.ca)   
-- *Cheriton School of Computer Science*  
-- Major: Computer Science | Minors: Combinatorics and Optimization, Physics
+*Cheriton School of Computer Science*  
+Major: Computer Science | Minors: Combinatorics and Optimization, Physics
+
 
 ## Certifications
 CFA Level I Passed
