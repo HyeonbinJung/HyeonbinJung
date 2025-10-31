@@ -29,7 +29,7 @@
 ## Education
 [University of Waterloo '27](https://cs.uwaterloo.ca)   
 *Cheriton School of Computer Science*  
-Major: Computer Science | Minors: Combinatorics and Optimization, Physics
+Bachelor of Computer Science | Minors: Combinatorics and Optimization, Physics
 
 
 ## Certifications
