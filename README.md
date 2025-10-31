@@ -37,12 +37,14 @@ CFA Level I Passed
 
 
 ## Employment
-November-1, 2024 – February-1, 2025 [Yuanta Investment](http://yuantainvest.com/?ckattempt=1)  
+- November-1, 2024 – February-1, 2025  
+[Yuanta Investment](http://yuantainvest.com/?ckattempt=1)  
 *Growth Capital Intern*
 
-January-30 – February-1, 2023 [Deloitte Korea](https://www.deloitte.com/kr/ko.html)  
+January-30 – February-1, 2023  
+[Deloitte Korea](https://www.deloitte.com/kr/ko.html)   
 *FA Deal General Intern*
 
-
-July-1 – August-30, 2022 [Paratus Investment](https://www.paratusinvestment.com/)  
+July-1 – August-30, 2022  
+[Paratus Investment](https://www.paratusinvestment.com/)  
 *Private Equity Research Assistant*
