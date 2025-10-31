@@ -2,7 +2,9 @@
 
 ## Hyeonbin Jung
 h9jung@uwaterloo.ca
+
 (+1) 226-984-7026
+
 (+82) 10-9240-5276
 
 ---
