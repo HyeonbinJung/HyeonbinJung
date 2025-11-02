@@ -15,6 +15,9 @@
 ![Racket](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+numpy/pandas/openxyl/xlwings/sciket-learn/matplotlib/psycopg2/yfinance  
+react  
 
 **DB**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
