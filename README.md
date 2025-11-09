@@ -34,8 +34,7 @@ react
 *Cheriton School of Computer Science*  
 Bachelor of Computer Science | Minors: Combinatorics and Optimization, Physics
 
-[KAIST]
-(https://www.kaist.ac.kr/kr/)  
+[KAIST](https://www.kaist.ac.kr/kr/)  
 Exchange Student(3B)
 
 ## Certifications
