@@ -35,7 +35,8 @@ react
 Bachelor of Computer Science | Minors: Combinatorics and Optimization, Physics
 
 [KAIST](https://www.kaist.ac.kr/kr/)  
-Exchange Student(3B)
+Exchange Student(3B Term)
+
 
 ## Certifications
 CFA Level I Passed
