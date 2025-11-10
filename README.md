@@ -47,7 +47,7 @@ CFA Level I Passed
 [Yuanta Investment](http://yuantainvest.com/?ckattempt=1)  
 *Growth Capital Intern*
 
-- January-30 – February-1, 2023  
+- January-30 – February-28, 2023  
 [Deloitte Korea](https://www.deloitte.com/kr/ko.html)   
 *FA Deal General Intern*
 
