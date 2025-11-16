@@ -43,6 +43,10 @@ CFA Level I Passed
 
 
 ## Employment
+- September-1, 2025 ~  
+[Paratus Investment](https://www.paratusinvestment.com/)  
+*Quantitative Macro Analyst Intern*
+
 - November-1, 2024 – February-1, 2025  
 [Yuanta Investment](http://yuantainvest.com/?ckattempt=1)  
 *Growth Capital Intern*
