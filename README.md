@@ -1,60 +1,50 @@
-
-
-
 ## Hyeonbin Jung
 📧 h9jung@uwaterloo.ca  
 🇰🇷 (+82) 10-9240-5276  
-🇨🇦 (+1) 226-984-7026
-
+🇨🇦 (+1) 226-984-7026  
 
 ---
 
-
-**Languages**  
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Racket](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-numpy/pandas/openxyl/xlwings/scikit-learn/matplotlib/psycopg2/yfinance  
-react  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**DB**  
+numpy / pandas / openpyxl / xlwings / scikit-learn / matplotlib / psycopg2 / yfinance  
+React  
+
+### DB
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Cloud**  
+### Cloud
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 
 ---
 
-
 ## Education
-[University of Waterloo '27](https://cs.uwaterloo.ca)   
+[University of Waterloo '27](https://cs.uwaterloo.ca)  
 *Cheriton School of Computer Science*  
-Bachelor of Computer Science | Minors: Combinatorics and Optimization, Applied Mathematics
+Bachelor of Computer Science | Minors: Combinatorics and Optimization, Applied Mathematics  
 
 [KAIST](https://www.kaist.ac.kr/kr/)  
-Exchange Student(3B Term)
-
+Exchange Student (3B Term)  
 
 ## Certifications
-CFA Level I Passed
-
+- CFA Level I — Passed  
 
 ## Employment
-- September-1, 2025 ~  
-[Paratus Investment](https://www.paratusinvestment.com/)  
-*Quantitative Macro Analyst Intern*
+- **Paratus Investment** — Quantitative Macro Analyst Intern  
+  *(Sep 1, 2025 – Present)*  
 
-- November-1, 2024 ~ February-1, 2025  
-[Yuanta Investment](http://yuantainvest.com/?ckattempt=1)  
-*Growth Capital Intern*
+- **Yuanta Investment** — Growth Capital Intern  
+  *(Nov 1, 2024 – Feb 1, 2025)*  
 
-- January-30 ~ February-28, 2023  
-[Deloitte Korea](https://www.deloitte.com/kr/ko.html)   
-*FA Deal General Intern*
+- **Deloitte Korea** — FA Deal General Intern  
+  *(Jan 30 – Feb 28, 2023)*  
 
-- July-1 ~ August-30, 2022  
-[Paratus Investment](https://www.paratusinvestment.com/)  
-*Private Equity Research Assistant*
+- **Paratus Investment** — Private Equity Research Assistant  
+  *(Jul 1 – Aug 30, 2022)*
+
+
