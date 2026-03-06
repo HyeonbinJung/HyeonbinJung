@@ -11,7 +11,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-F7DF1E?style=for-the-badge&logo=javascript&logoColor=purple)
+![Kotlin](https://img.shields.io/badge/Kotlin-F7DF1E?style=for-the-badge&logo=kotlin&logoColor=purple)
 
 numpy / pandas / openpyxl / xlwings / scikit-learn / matplotlib / psycopg2 / yfinance  
 React  
