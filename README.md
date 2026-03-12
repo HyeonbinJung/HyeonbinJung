@@ -24,10 +24,10 @@ React
 
 ---
 
-## Education
+## Research experience
 [University of Waterloo '27](https://cs.uwaterloo.ca)  
 *Cheriton School of Computer Science*  
-Bachelor of Computer Science | Minors: Combinatorics and Optimization, Applied Mathematics  
+Computer Science | Minors: Combinatorics and Optimization, Applied Mathematics  
 
 [KAIST](https://www.kaist.ac.kr/kr/)  
 Exchange Student (3B Term)  
