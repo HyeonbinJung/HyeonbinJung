@@ -25,8 +25,7 @@ React
 ---
 
 ## Education
-[Columbia University, in the City of New York '27]
-(https://www.columbia.edu/)  
+[Columbia University '27](https://www.columbia.edu/)  
 Bachelor's degree, Computer Science - Mathematics 
 
 [University of Waterloo](https://cs.uwaterloo.ca)  
