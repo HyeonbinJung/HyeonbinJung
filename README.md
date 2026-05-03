@@ -24,13 +24,14 @@ React
 
 ---
 
-## Research experience
-[University of Waterloo '27](https://cs.uwaterloo.ca)  
-*Cheriton School of Computer Science*  
-Computer Science | Minors: Combinatorics and Optimization, Applied Mathematics  
+## Education
+[Columbia University, in the City of New York '27]
+(https://www.columbia.edu/)  
+Bachelor's degree, Computer Science - Mathematics 
 
-[KAIST](https://www.kaist.ac.kr/kr/)  
-Exchange Student (3B Term)  
+[University of Waterloo](https://cs.uwaterloo.ca)  
+*Cheriton School of Computer Science*  
+Computer Science
 
 ## Certifications
 - CFA Level I — Passed  
