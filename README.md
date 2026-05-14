@@ -1,5 +1,5 @@
 ## Hyeonbin Jung
-📧 h9j2784@columbia.edu 
+📧 hj2784@columbia.edu  
 🇰🇷 (+82) 10-9240-5276  
 🇨🇦 (+1) 226-984-7026  
 
