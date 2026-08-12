@@ -32,9 +32,6 @@ Bachelor's degree, Computer Science - Mathematics
 *Cheriton School of Computer Science*  
 Computer Science
 
-## Certifications
-- CFA Level I — Passed  
-
 ## Employment
 - **[Paratus Investment](https://www.paratusinvestment.com/)** — Quantitative Macro Analyst Intern  
   *(Sep 1, 2025 – Present)*  
