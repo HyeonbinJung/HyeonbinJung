@@ -33,16 +33,16 @@ Bachelor's degree, Computer Science - Mathematics
 Computer Science
 
 ## Employment
-- **[Paratus Investment](https://www.paratusinvestment.com/)** — Quantitative Macro Analyst Intern  
+- **[Paratus Investment](https://www.paratusinvestment.com/)** — Data Science Intern
   *(Sep 1, 2025 – Present)*  
 
-- **[Yuanta Investment](http://yuantainvest.com/)** — Growth Capital Intern  
+- **[Yuanta Investment](http://yuantainvest.com/)** — Growth Capital Intern
   *(Nov 1, 2024 – Feb 1, 2025)*  
 
-- **[Deloitte Korea](https://www.deloitte.com/kr/ko.html)** — FA Deal General Intern  
+- **[Deloitte Korea](https://www.deloitte.com/kr/ko.html)** — FA Deal Advisory Intern
   *(Jan 30 – Feb 28, 2023)*  
 
-- **[Paratus Investment](https://www.paratusinvestment.com/)** — Private Equity Research Assistant  
+- **[Paratus Investment](https://www.paratusinvestment.com/)** — Research Assistant
   *(Jul 1 – Aug 30, 2022)*
   
 
