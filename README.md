@@ -17,30 +17,36 @@
 ## 💼 Experience
 
 **Quantitative Researcher & Trader** — [D. E. Shaw](https://www.deshaw.com/) · [IBK Securities](https://www.ibks.com/) · NH Hedge Asset Management · *May 2027 – Aug 2027*  
+<img src="assets/rule.svg" width="100%" height="1">
 - *Offer Received*
 
-**Software Engineer** — [Extriver Partners](https://extriver.com) · *May 2026 – Present*
+**Software Engineer** — [Extriver Partners](https://extriver.com) · *May 2026 – Present*  
+<img src="assets/rule.svg" width="100%" height="1">
 - Analyzed audiences of creator partners (**18M / 2M / 100K** Instagram, **500K** YouTube) to size demand and product fit
 - Led product management and development of creator-facing AI products and the company's internal workspace
 - Tracked software unit economics, cut LLM costs with token budgets, usage quotas and caching, and monitored production performance
 
 **Data Science Intern** — [Paratus Investment](https://www.paratusinvestment.com/) · Seoul · *Feb 2025 – Aug 2025*  
-<sub>Reference &amp; Recommendation: [JungYeon (Andy) Kim](https://www.linkedin.com/in/jungyeon-andy-kim-90ab0a54), Vice President</sub>
+<sub>Reference &amp; Recommendation: [JungYeon (Andy) Kim](https://www.linkedin.com/in/jungyeon-andy-kim-90ab0a54), Vice President</sub>  
+<img src="assets/rule.svg" width="100%" height="1">
 - Screened 24 private-company targets using Capital IQ and 160+ listed peers; built LTM / NTM EV/Revenue, EV/EBITDA and P/E comp sets with growth, margin and size adjustments
 - Automated peer selection, multiple refreshes and EV-to-equity bridges in Excel / xlwings / Python — **~40% fewer manual model updates**
 - Built five-year FCFF / DCF cases with WACC, terminal-growth and exit-multiple methods; analyzed revenue, EBIT margin, CapEx and NWC sensitivities for transaction pricing
 
-**Private Equity Analyst/Data Science Intern** — [Yuanta Investment](http://yuantainvest.com/) · Seoul · *Oct 2024 – Feb 2025*
+**Private Equity Analyst/Data Science Intern** — [Yuanta Investment](http://yuantainvest.com/) · Seoul · *Oct 2024 – Feb 2025*  
+<img src="assets/rule.svg" width="100%" height="1">
 - Valued private companies using 10–15 relevant public peers, normalized EBITDA and trading multiples; supported valuation exhibits and investment committee (IC) reports
 - Built operating and LBO models for prospective investments, stress-testing entry / exit EV/EBITDA, debt paydown, leverage and sponsor IRR / MOIC under base and downside cases
 - Assessed Sunbo Industrial bolt-on targets, pro forma EBITDA and synergies; automated daily deal / industry news clipping and EML-based macro signals for portfolio review
 
 **FA Deal General Intern** — [Deloitte Korea](https://www.deloitte.com/kr/ko.html) · Seoul · *Jan 2023 – Feb 2023*  
-<sub>Reference &amp; Recommendation: [Sang-wook Nam](https://www.deloitte.com/kr/ko/about/people/profiles.sangnam+97cd9250.html), Managing Partner, Financial Advisory</sub>
+<sub>Reference &amp; Recommendation: [Sang-wook Nam](https://www.deloitte.com/kr/ko/about/people/profiles.sangnam+97cd9250.html), Managing Partner, Financial Advisory</sub>  
+<img src="assets/rule.svg" width="100%" height="1">
 - Supported buy-side medical-device M&A diligence, analyzing revenue concentration, normalized EBITDA, working-capital movement and cash-flow conversion
 - Prepared peer screening and target comparisons; identified acquisition candidates with potential commercial synergies, financial risks and integration considerations
 
-**Private Equity Analyst Intern** — [Paratus Investment](https://www.paratusinvestment.com/) · Seoul · *Jun 2022 – Sep 2022*
+**Private Equity Analyst Intern** — [Paratus Investment](https://www.paratusinvestment.com/) · Seoul · *Jun 2022 – Sep 2022*  
+<img src="assets/rule.svg" width="100%" height="1">
 - Built manufacturing-sector DCF models linking volume, pricing, margins, CapEx and NWC to FCFF, discounted terminal value and implied equity value
 - Standardized Excel valuation templates and automated research / market-news collection to update peer multiples, assumptions and deal-monitoring inputs
 
