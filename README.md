@@ -3,7 +3,6 @@
 <p align="center">
   <b>Computer Science & Mathematics @ Columbia University</b><br>
   Machine learning for finance · Quantitative research · Software engineering<br>
-  Founder, <a href="https://extriver.com">Extriver Partners</a>
 </p>
 
 <p align="center">
