@@ -16,13 +16,8 @@
 
 ## 💼 Experience
 
-**Incoming Quantitative Researcher & Trader** — [D. E. Shaw](https://www.deshaw.com/)
-
-**Incoming Quantitative Researcher & Trader** — [IBK Securities](https://www.ibks.com/) · Seoul
-
-**Incoming Quantitative Researcher & Trader** — NH Hedge Asset Management · Seoul
-
-**Incoming Quantitative Researcher & Trader** — [Hanyang Securities](https://www.hygood.co.kr/) · Seoul
+**Quantitative Researcher & Trader** — [D. E. Shaw](https://www.deshaw.com/) · [IBK Securities](https://www.ibks.com/) · NH Hedge Asset Management · [Hanyang Securities](https://www.hygood.co.kr/) · *May 2027 – Aug 2027*  
+*Offer Received*
 
 **Software Engineer** — [Extriver Partners](https://extriver.com) · *May 2026 – Present*
 - Analyzed audiences of creator partners (**18M / 2M / 100K** Instagram, **500K** YouTube) to size demand and product fit
