@@ -1,18 +1,112 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="340" viewBox="0 0 880 340" role="img" aria-label="Code by language: Python 53.6%, JavaScript 13.5%, Racket 10.8%, HTML/CSS 10.0%, Kotlin 6.2%, TypeScript 3.2%, C 2.4%">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="340" viewBox="0 0 880 340" role="img" aria-label="Codebase evolution dashboard with monthly programming language trends, code volume, and October 2026 language composition">
   <style>
-    .t { font: 600 17px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; fill: #e6edf3; }
-    .s { font: 400 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; fill: #7d8590; }
-    .n { font: 500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; fill: #e6edf3; }
-    .p { font: 600 13px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace; fill: #7ee787; }
-    .big { font: 700 30px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace; fill: #7ee787; }
-    .lbl { font: 500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; fill: #7d8590; letter-spacing: .06em; }
+    .head{font:600 11px ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:.10em;fill:#8999ab}
+    .title{font:600 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;fill:#e8edf3}
+    .section{font:600 11px ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:.06em;fill:#b8c7d6}
+    .axis{font:11px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#748498}
+    .label{font:12px -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;fill:#c4cfdb}
+    .num{font:600 12px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#e7edf3}
+    .big{font:700 25px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#f0f3f7}
+    .grid{stroke:#25303d;stroke-width:1;stroke-dasharray:2 4}
+    .rule{stroke:#293441;stroke-width:1}
   </style>
-  <rect x="0.5" y="0.5" width="879" height="339" rx="14" fill="#0d1117" stroke="#30363d"/>
-  <text x="30" y="40" class="t">Code by language</text>
-  <text x="30" y="60" class="s">Share of code across all of my public repositories</text>
-  <circle cx="180" cy="205" r="92" stroke="#161b22" stroke-width="32" fill="none"/>
-  <path d="M181.12,113.01 A92,92 0 1 1 160.46,294.90" stroke="#7ee787" stroke-width="32" fill="none"><title>Python / Jupyter 53.6%</title></path><path d="M158.27,294.40 A92,92 0 0 1 99.64,249.80" stroke="#56d364" stroke-width="32" fill="none"><title>JavaScript 13.5%</title></path><path d="M98.57,247.82 A92,92 0 0 1 89.33,189.44" stroke="#3fb950" stroke-width="32" fill="none"><title>Racket 10.8%</title></path><path d="M89.73,187.22 A92,92 0 0 1 115.79,139.11" stroke="#2ea043" stroke-width="32" fill="none"><title>HTML / CSS 10.0%</title></path><path d="M117.42,137.56 A92,92 0 0 1 145.63,119.66" stroke="#238636" stroke-width="32" fill="none"><title>Kotlin 6.2%</title></path><path d="M147.72,118.85 A92,92 0 0 1 163.36,114.52" stroke="#1a7f37" stroke-width="32" fill="none"><title>TypeScript 3.2%</title></path><path d="M165.58,114.14 A92,92 0 0 1 177.14,113.04" stroke="#116329" stroke-width="32" fill="none"><title>C 2.4%</title></path>
-  <text x="180" y="207" class="big" text-anchor="middle">53.6%</text>
-  <text x="180" y="229" class="lbl" text-anchor="middle">PYTHON</text>
-  <circle cx="360" cy="114" r="5" fill="#7ee787"/><text x="374" y="118" class="n">Python / Jupyter</text><rect x="510" y="108" width="290" height="8" rx="4" fill="#161b22"/><rect x="510" y="108" width="290.0" height="8" rx="4" fill="#7ee787"/><text x="850" y="118" class="p" text-anchor="end">53.6%</text><circle cx="360" cy="140" r="5" fill="#56d364"/><text x="374" y="144" class="n">JavaScript</text><rect x="510" y="134" width="290" height="8" rx="4" fill="#161b22"/><rect x="510" y="134" width="73.0" height="8" rx="4" fill="#56d364"/><text x="850" y="144" class="p" text-anchor="end">13.5%</text><circle cx="360" cy="166" r="5" fill="#3fb950"/><text x="374" y="170" class="n">Racket</text><rect x="510" y="160" width="290" height="8" rx="4" fill="#161b22"/><rect x="510" y="160" width="58.4" height="8" rx="4" fill="#3fb950"/><text x="850" y="170" class="p" text-anchor="end">10.8%</text><circle cx="360" cy="192" r="5" fill="#2ea043"/><text x="374" y="196" class="n">HTML / CSS</text><rect x="510" y="186" width="290" height="8" rx="4" fill="#161b22"/><rect x="510" y="186" width="54.1" height="8" rx="4" fill="#2ea043"/><text x="850" y="196" class="p" text-anchor="end">10.0%</text><circle cx="360" cy="218" r="5" fill="#238636"/><text x="374" y="222" class="n">Kotlin</text><rect x="510" y="212" width="290" height="8" rx="4" fill="#161b22"/><rect x="510" y="212" width="33.5" height="8" rx="4" fill="#238636"/><text x="850" y="222" class="p" text-anchor="end">6.2%</text><circle cx="360" cy="244" r="5" fill="#1a7f37"/><text x="374" y="248" class="n">TypeScript</text><rect x="510" y="238" width="290" height="8" rx="4" fill="#161b22"/><rect x="510" y="238" width="17.3" height="8" rx="4" fill="#1a7f37"/><text x="850" y="248" class="p" text-anchor="end">3.2%</text><circle cx="360" cy="270" r="5" fill="#116329"/><text x="374" y="274" class="n">C</text><rect x="510" y="264" width="290" height="8" rx="4" fill="#161b22"/><rect x="510" y="264" width="13.0" height="8" rx="4" fill="#116329"/><text x="850" y="274" class="p" text-anchor="end">2.4%</text><circle cx="360" cy="296" r="5" fill="#0b4a20"/><text x="374" y="300" class="n">Other</text><rect x="510" y="290" width="290" height="8" rx="4" fill="#161b22"/><rect x="510" y="290" width="2.0" height="8" rx="4" fill="#0b4a20"/><text x="850" y="300" class="p" text-anchor="end">0.3%</text>
+  <rect x=".5" y=".5" width="879" height="339" rx="12" fill="#0c1118" stroke="#2a3440"/>
+  <text x="27" y="25" class="head">ENGINEERING / REPOSITORY INTELLIGENCE</text>
+  <text x="27" y="52" class="title">Codebase evolution</text>
+  <text x="354" y="49" class="axis">OCT 2025 — OCT 2026</text>
+  <text x="653" y="25" class="head">TOTAL / OCT 2026</text>
+  <text x="653" y="52" class="big">3,689,629</text>
+  <text x="844" y="52" text-anchor="end" style="font:600 12px ui-monospace,Consolas,monospace;fill:#7ec9a7">+752.5%</text>
+  <line x1="27" y1="67" x2="852" y2="67" class="rule"/>
+  <line x1="573" y1="80" x2="573" y2="319" class="rule"/>
+  <text x="28" y="93" class="section">01 / LANGUAGE TRAJECTORIES</text>
+  <text x="546" y="93" text-anchor="end" class="axis">CUMULATIVE LOC</text>
+  <text x="593" y="93" class="section">02 / OCTOBER MIX</text>
+
+  <line x1="61" y1="220.0" x2="544" y2="220.0" class="grid"/>
+  <text x="52" y="224.0" text-anchor="end" class="axis">0</text>
+  <line x1="61" y1="187.2" x2="544" y2="187.2" class="grid"/>
+  <text x="52" y="191.2" text-anchor="end" class="axis">500k</text>
+  <line x1="61" y1="154.4" x2="544" y2="154.4" class="grid"/>
+  <text x="52" y="158.4" text-anchor="end" class="axis">1.0m</text>
+  <line x1="61" y1="121.6" x2="544" y2="121.6" class="grid"/>
+  <text x="52" y="125.6" text-anchor="end" class="axis">1.5m</text>
+  <line x1="61.0" y1="115" x2="61.0" y2="223" class="grid"/>
+  <text x="61.0" y="236" class="axis" text-anchor="middle">OCT 25</text>
+  <line x1="181.8" y1="115" x2="181.8" y2="223" class="grid"/>
+  <text x="181.8" y="236" class="axis" text-anchor="middle">JAN 26</text>
+  <line x1="302.5" y1="115" x2="302.5" y2="223" class="grid"/>
+  <text x="302.5" y="236" class="axis" text-anchor="middle">APR 26</text>
+  <line x1="423.2" y1="115" x2="423.2" y2="223" class="grid"/>
+  <text x="423.2" y="236" class="axis" text-anchor="middle">JUL 26</text>
+  <line x1="544.0" y1="115" x2="544.0" y2="223" class="grid"/>
+  <text x="544.0" y="236" class="axis" text-anchor="middle">OCT 26</text>
+  <path d="M61 220 H544 L553 211 H70 Z" fill="#1b2733" opacity=".36"/>
+  <polyline points="61.0,197.4 101.2,197.4 141.5,197.4 181.8,197.4 222.0,197.4 262.2,197.4 302.5,197.4 342.8,197.4 383.0,197.4 423.2,197.4 463.5,197.4 503.8,197.4 544.0,182.7" fill="none" stroke="#70a7df" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="544" cy="182.7" r="3.4" fill="#70a7df" stroke="#0c1118" stroke-width="1.5"/>
+  <polyline points="61.0,220.0 101.2,219.9 141.5,219.8 181.8,219.8 222.0,219.8 262.2,219.1 302.5,217.0 342.8,215.9 383.0,213.8 423.2,213.8 463.5,210.0 503.8,206.3 544.0,186.7" fill="none" stroke="#bba4db" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="544" cy="186.7" r="3.4" fill="#bba4db" stroke="#0c1118" stroke-width="1.5"/>
+  <polyline points="61.0,218.3 101.2,217.7 141.5,217.7 181.8,217.7 222.0,217.7 262.2,217.0 302.5,217.0 342.8,217.0 383.0,217.0 423.2,217.0 463.5,217.0 503.8,204.4 544.0,175.7" fill="none" stroke="#6bc8a3" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="544" cy="175.7" r="3.4" fill="#6bc8a3" stroke="#0c1118" stroke-width="1.5"/>
+  <polyline points="61.0,220.0 101.2,219.8 141.5,219.6 181.8,219.6 222.0,219.6 262.2,219.6 302.5,217.6 342.8,216.4 383.0,214.1 423.2,214.1 463.5,201.8 503.8,196.1 544.0,120.7" fill="none" stroke="#f2a65a" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="544" cy="120.7" r="3.4" fill="#f2a65a" stroke="#0c1118" stroke-width="1.5"/>
+  <line x1="62" y1="250" x2="80" y2="250" stroke="#f2a65a" stroke-width="2.5"/>
+  <text x="86" y="254" class="label">JavaScript</text>
+  <line x1="172" y1="250" x2="190" y2="250" stroke="#6bc8a3" stroke-width="2.5"/>
+  <text x="196" y="254" class="label">Python</text>
+  <line x1="256" y1="250" x2="274" y2="250" stroke="#70a7df" stroke-width="2.5"/>
+  <text x="280" y="254" class="label">Jupyter</text>
+  <line x1="352" y1="250" x2="370" y2="250" stroke="#bba4db" stroke-width="2.5"/>
+  <text x="376" y="254" class="label">CSS</text>
+  <line x1="28" y1="265" x2="555" y2="265" class="rule"/>
+  <text x="28" y="281" class="section">03 / TOTAL CODE VOLUME</text>
+  <text x="555" y="281" text-anchor="end" class="axis">13 MONTHLY SNAPSHOTS</text>
+  <rect x="58.0" y="316.4" width="19" height="3.6" rx="2" fill="#496079"/>
+  <rect x="93.5" y="315.8" width="19" height="4.2" rx="2" fill="#496079"/>
+  <rect x="129.0" y="315.7" width="19" height="4.3" rx="2" fill="#496079"/>
+  <rect x="164.5" y="315.6" width="19" height="4.4" rx="2" fill="#496079"/>
+  <rect x="200.0" y="315.4" width="19" height="4.6" rx="2" fill="#496079"/>
+  <rect x="235.5" y="314.3" width="19" height="5.7" rx="2" fill="#496079"/>
+  <rect x="271.0" y="313.8" width="19" height="6.2" rx="2" fill="#496079"/>
+  <rect x="306.5" y="313.1" width="19" height="6.9" rx="2" fill="#496079"/>
+  <rect x="342.0" y="312.3" width="19" height="7.7" rx="2" fill="#496079"/>
+  <rect x="377.5" y="312.3" width="19" height="7.7" rx="2" fill="#496079"/>
+  <rect x="413.0" y="310.2" width="19" height="9.8" rx="2" fill="#496079"/>
+  <rect x="448.5" y="307.3" width="19" height="12.7" rx="2" fill="#496079"/>
+  <rect x="484.0" y="289.0" width="19" height="31.0" rx="2" fill="#e7a15a"/>
+  <text x="27" y="331" class="axis">OCT 25</text>
+  <text x="556" y="331" text-anchor="end" class="axis">OCT 26</text>
+  <circle cx="600" cy="120" r="3.5" fill="#f2a65a"/>
+  <text x="612" y="124" class="label">JavaScript</text>
+  <text x="850" y="124" text-anchor="end" class="num">41.0%</text>
+  <rect x="707" y="129" width="142" height="4" rx="2" fill="#202a35"/>
+  <rect x="707" y="129" width="142.0" height="4" rx="2" fill="#f2a65a"/>
+  <circle cx="600" cy="149" r="3.5" fill="#6bc8a3"/>
+  <text x="612" y="153" class="label">Python</text>
+  <text x="850" y="153" text-anchor="end" class="num">18.3%</text>
+  <rect x="707" y="158" width="142" height="4" rx="2" fill="#202a35"/>
+  <rect x="707" y="158" width="63.4" height="4" rx="2" fill="#6bc8a3"/>
+  <circle cx="600" cy="178" r="3.5" fill="#70a7df"/>
+  <text x="612" y="182" class="label">Jupyter</text>
+  <text x="850" y="182" text-anchor="end" class="num">15.4%</text>
+  <rect x="707" y="187" width="142" height="4" rx="2" fill="#202a35"/>
+  <rect x="707" y="187" width="53.3" height="4" rx="2" fill="#70a7df"/>
+  <circle cx="600" cy="207" r="3.5" fill="#bba4db"/>
+  <text x="612" y="211" class="label">CSS</text>
+  <text x="850" y="211" text-anchor="end" class="num">13.8%</text>
+  <rect x="707" y="216" width="142" height="4" rx="2" fill="#202a35"/>
+  <rect x="707" y="216" width="47.7" height="4" rx="2" fill="#bba4db"/>
+  <circle cx="600" cy="236" r="3.5" fill="#7d94a8"/>
+  <text x="612" y="240" class="label">HTML</text>
+  <text x="850" y="240" text-anchor="end" class="num">4.2%</text>
+  <rect x="707" y="245" width="142" height="4" rx="2" fill="#202a35"/>
+  <rect x="707" y="245" width="14.5" height="4" rx="2" fill="#7d94a8"/>
+  <circle cx="600" cy="265" r="3.5" fill="#6e8299"/>
+  <text x="612" y="269" class="label">Racket</text>
+  <text x="850" y="269" text-anchor="end" class="num">3.4%</text>
+  <rect x="707" y="274" width="142" height="4" rx="2" fill="#202a35"/>
+  <rect x="707" y="274" width="11.8" height="4" rx="2" fill="#6e8299"/>
+  <line x1="594" y1="298" x2="850" y2="298" class="rule"/>
+  <text x="594" y="316" class="axis">TOP 3 LANGUAGES</text>
+  <text x="849" y="319" text-anchor="end" style="font:700 19px ui-monospace,Consolas,monospace;fill:#e8edf3">74.7%</text>
 </svg>

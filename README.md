@@ -46,24 +46,9 @@
 
 ---
 
-## 🚀 Selected Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Automated-DCF-ML**](https://github.com/HyeonbinJung/Automated-DCF-ML) | Engineers SEC Company Facts / XBRL data and fits **Ridge & Elastic Net** forecasts for six value drivers (revenue growth, EBIT margin, tax, D&A, CapEx, NWC intensity); converts them to NOPAT and FCFF, then a DCF to enterprise / equity value and fair value per share. Chronological training (through 2018) and testing (2022+). | Python · scikit-learn · SciPy |
-| [**InsightStream**](https://github.com/HyeonbinJung/InsightStream) ⭐ | DigitalOcean Gradient™ AI Hackathon — AI observability platform that streams logs through Kafka and uses Llama 3 to detect anomalies and summarize incidents in real time. | Kotlin · Spring Boot · Kafka · Next.js |
-| [**Revenue Dip Lab**](https://github.com/HyeonbinJung/Revenue-Dip-Lab) | Backtests buying companies with resilient revenue after sharp price drawdowns — five-panel research workspace, 3D CAGR surface sweeps and out-of-sample factor search on SEC EDGAR + Yahoo Finance data. | Python · FastAPI · JavaScript · Web Workers · SQLite |
-| [**Signals to Alpha**](https://github.com/HyeonbinJung/Signals-to-Alpha) | Research program turning real-economy signals into testable alpha factors — a U.S. K-Food alternative-data factor model with point-in-time signals, placebo tests and bias audits. | Python · statsmodels · SciPy · Jupyter |
-| [**MUSINSA Seongsu E4**](https://github.com/HyeonbinJung/MUSINSA-Seongsu-E4-Development-Project) | Interactive investment proposal for a retail-led office development in Seoul — KRW 107.3B project, 15.7% equity IRR, 5.11x MOIC, backed by Excel development and retail-income models. | React · Vite · Excel modeling |
-| [**Nanny Mira** — Child Temperament AI](https://github.com/HyeonbinJung/Child-Personality-Assessment-AI-Parenting-Advisor) | Parent-reported child temperament web app in **4 languages** (KO / EN / RU / PT-BR): an age-adapted 28-question assessment, 40 expandable analysis cards and **DeepSeek LLM** parenting guidance grounded with PubMed references; Prodamus card checkout. | Node.js · DeepSeek API · Low-Cost LLM Inference · RAG · Prompt Optimization · Context Caching · Token Budgeting · Usage Quotas |
-| [**Superdupercatai**](https://www.instagram.com/superdupercatai/) | AI comics & animation channel — AI-generated content production, growth and monetization analytics (**57.7K followers**). | Generative AI · content analytics |
-| [**Extriver Partners**](https://extriver.com) | Product & business modeling — creator audience geography, engagement and sector demand to evaluate vertical-software concepts; subscription, conversion and revenue-share scenarios; internal partner pipeline and research-to-execution workspace. Distribution tested through an owned short-form account (**70K followers, 20M peak views, ~1M average views / video**). | Node.js · Socket.io · Cloudflare R2 |
-
----
-
 ## 💻 Languages
 
-<p align="center"><img src="assets/languages.svg" width="880" alt="Code by language — Python 53.6%, JavaScript 13.5%, Racket 10.8%, HTML/CSS 10.0%, Kotlin 6.2%, TypeScript 3.2%, C 2.4%"></p>
+<p align="center"><img src="assets/languages.svg" width="880" alt="Codebase evolution — monthly language trends Oct 2025 to Oct 2026; October 2026 mix: JavaScript 41.0%, Python 18.3%, Jupyter 15.4%, CSS 13.8%, HTML 4.2%, Racket 3.4%"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-53.6%25-1E4D78?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" height="28">
@@ -80,6 +65,21 @@
   <img src="https://skillicons.dev/icons?i=cpp,rust,ocaml,r,postgres,bash&theme=light" height="48" alt="C++ · Rust · OCaml · R · SQL · Shell"><br>
   <sub>C++ &nbsp;·&nbsp; Rust &nbsp;·&nbsp; OCaml &nbsp;·&nbsp; R &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Shell</sub>
 </p>
+
+---
+
+## 🚀 Selected Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Automated-DCF-ML**](https://github.com/HyeonbinJung/Automated-DCF-ML) | Engineers SEC Company Facts / XBRL data and fits **Ridge & Elastic Net** forecasts for six value drivers (revenue growth, EBIT margin, tax, D&A, CapEx, NWC intensity); converts them to NOPAT and FCFF, then a DCF to enterprise / equity value and fair value per share. Chronological training (through 2018) and testing (2022+). | Python · scikit-learn · SciPy |
+| [**InsightStream**](https://github.com/HyeonbinJung/InsightStream) ⭐ | DigitalOcean Gradient™ AI Hackathon — AI observability platform that streams logs through Kafka and uses Llama 3 to detect anomalies and summarize incidents in real time. | Kotlin · Spring Boot · Kafka · Next.js |
+| [**Revenue Dip Lab**](https://github.com/HyeonbinJung/Revenue-Dip-Lab) | Backtests buying companies with resilient revenue after sharp price drawdowns — five-panel research workspace, 3D CAGR surface sweeps and out-of-sample factor search on SEC EDGAR + Yahoo Finance data. | Python · FastAPI · JavaScript · Web Workers · SQLite |
+| [**Signals to Alpha**](https://github.com/HyeonbinJung/Signals-to-Alpha) | Research program turning real-economy signals into testable alpha factors — a U.S. K-Food alternative-data factor model with point-in-time signals, placebo tests and bias audits. | Python · statsmodels · SciPy · Jupyter |
+| [**MUSINSA Seongsu E4**](https://github.com/HyeonbinJung/MUSINSA-Seongsu-E4-Development-Project) | Interactive investment proposal for a retail-led office development in Seoul — KRW 107.3B project, 15.7% equity IRR, 5.11x MOIC, backed by Excel development and retail-income models. | React · Vite · Excel modeling |
+| [**Nanny Mira** — Child Temperament AI](https://github.com/HyeonbinJung/Child-Personality-Assessment-AI-Parenting-Advisor) | Parent-reported child temperament web app in **4 languages** (KO / EN / RU / PT-BR): an age-adapted 28-question assessment, 40 expandable analysis cards and **DeepSeek LLM** parenting guidance grounded with PubMed references; Prodamus card checkout. | Node.js · DeepSeek API · Low-Cost LLM Inference · RAG · Prompt Optimization · Context Caching · Token Budgeting · Usage Quotas |
+| [**Superdupercatai**](https://www.instagram.com/superdupercatai/) | AI comics & animation channel — AI-generated content production, growth and monetization analytics (**57.7K followers**). | Generative AI · content analytics |
+| [**Extriver Partners**](https://extriver.com) | Product & business modeling — creator audience geography, engagement and sector demand to evaluate vertical-software concepts; subscription, conversion and revenue-share scenarios; internal partner pipeline and research-to-execution workspace. Distribution tested through an owned short-form account (**70K followers, 20M peak views, ~1M average views / video**). | Node.js · Socket.io · Cloudflare R2 |
 
 ---
 
