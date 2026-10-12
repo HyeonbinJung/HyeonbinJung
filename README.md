@@ -15,6 +15,50 @@
 
 ---
 
+## 💼 Experience
+
+**Software Engineer** — [Extriver Partners](https://extriver.com) · *May 2026 – Present*
+- Analyzed audiences of creator partners (**18M / 2M / 100K** Instagram, **500K** YouTube) to size demand and product fit
+- Led product management and development of creator-facing AI products and the company's internal workspace
+- Tracked software unit economics, cut LLM costs with token budgets, usage quotas and caching, and monitored production performance
+
+**Data Science Intern** — [Paratus Investment](https://www.paratusinvestment.com/) · Seoul · *Feb 2025 – Aug 2025*  
+<sub>Reference &amp; Recommendation: [JungYeon (Andy) Kim](https://www.linkedin.com/in/jungyeon-andy-kim-90ab0a54), Vice President</sub>
+- Screened 24 private-company targets using Capital IQ and 160+ listed peers; built LTM / NTM EV/Revenue, EV/EBITDA and P/E comp sets with growth, margin and size adjustments
+- Automated peer selection, multiple refreshes and EV-to-equity bridges in Excel / xlwings / Python — **~40% fewer manual model updates**
+- Built five-year FCFF / DCF cases with WACC, terminal-growth and exit-multiple methods; analyzed revenue, EBIT margin, CapEx and NWC sensitivities for transaction pricing
+
+**Private Equity Analyst/Data Science Intern** — [Yuanta Investment](http://yuantainvest.com/) · Seoul · *Oct 2024 – Feb 2025*
+- Valued private companies using 10–15 relevant public peers, normalized EBITDA and trading multiples; supported valuation exhibits and investment committee (IC) reports
+- Built operating and LBO models for prospective investments, stress-testing entry / exit EV/EBITDA, debt paydown, leverage and sponsor IRR / MOIC under base and downside cases
+- Assessed Sunbo Industrial bolt-on targets, pro forma EBITDA and synergies; automated daily deal / industry news clipping and EML-based macro signals for portfolio review
+
+**FA Deal General Intern** — [Deloitte Korea](https://www.deloitte.com/kr/ko.html) · Seoul · *Jan 2023 – Feb 2023*  
+<sub>Reference &amp; Recommendation: [Sang-wook Nam](https://www.deloitte.com/kr/ko/about/people/profiles.sangnam+97cd9250.html), Managing Partner, Financial Advisory</sub>
+- Supported buy-side medical-device M&A diligence, analyzing revenue concentration, normalized EBITDA, working-capital movement and cash-flow conversion
+- Prepared peer screening and target comparisons; identified acquisition candidates with potential commercial synergies, financial risks and integration considerations
+
+**Private Equity Analyst Intern** — [Paratus Investment](https://www.paratusinvestment.com/) · Seoul · *Jun 2022 – Sep 2022*
+- Built manufacturing-sector DCF models linking volume, pricing, margins, CapEx and NWC to FCFF, discounted terminal value and implied equity value
+- Standardized Excel valuation templates and automated research / market-news collection to update peer multiples, assumptions and deal-monitoring inputs
+
+---
+
+## 🚀 Selected Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Automated-DCF-ML**](https://github.com/HyeonbinJung/Automated-DCF-ML) | Engineers SEC Company Facts / XBRL data and fits **Ridge & Elastic Net** forecasts for six value drivers (revenue growth, EBIT margin, tax, D&A, CapEx, NWC intensity); converts them to NOPAT and FCFF, then a DCF to enterprise / equity value and fair value per share. Chronological training (through 2018) and testing (2022+). | Python · scikit-learn · SciPy |
+| [**InsightStream**](https://github.com/HyeonbinJung/InsightStream) ⭐ | DigitalOcean Gradient™ AI Hackathon — AI observability platform that streams logs through Kafka and uses Llama 3 to detect anomalies and summarize incidents in real time. | Kotlin · Spring Boot · Kafka · Next.js |
+| [**Revenue Dip Lab**](https://github.com/HyeonbinJung/Revenue-Dip-Lab) | Backtests buying companies with resilient revenue after sharp price drawdowns — five-panel research workspace, 3D CAGR surface sweeps and out-of-sample factor search on SEC EDGAR + Yahoo Finance data. | Python · FastAPI · JavaScript · Web Workers · SQLite |
+| [**Signals to Alpha**](https://github.com/HyeonbinJung/Signals-to-Alpha) | Research program turning real-economy signals into testable alpha factors — a U.S. K-Food alternative-data factor model with point-in-time signals, placebo tests and bias audits. | Python · statsmodels · SciPy · Jupyter |
+| [**MUSINSA Seongsu E4**](https://github.com/HyeonbinJung/MUSINSA-Seongsu-E4-Development-Project) | Interactive investment proposal for a retail-led office development in Seoul — KRW 107.3B project, 15.7% equity IRR, 5.11x MOIC, backed by Excel development and retail-income models. | React · Vite · Excel modeling |
+| [**Nanny Mira** — Child Temperament AI](https://github.com/HyeonbinJung/Child-Personality-Assessment-AI-Parenting-Advisor) | Parent-reported child temperament web app in **4 languages** (KO / EN / RU / PT-BR): an age-adapted 28-question assessment, 40 expandable analysis cards and **DeepSeek LLM** parenting guidance grounded with PubMed references; Prodamus card checkout. | Node.js · DeepSeek API · Low-Cost LLM Inference · RAG · Prompt Optimization · Context Caching · Token Budgeting · Usage Quotas |
+| [**Superdupercatai**](https://www.instagram.com/superdupercatai/) | AI comics & animation channel — AI-generated content production, growth and monetization analytics (**57.7K followers**). | Generative AI · content analytics |
+| [**Extriver Partners**](https://extriver.com) | Product & business modeling — creator audience geography, engagement and sector demand to evaluate vertical-software concepts; subscription, conversion and revenue-share scenarios; internal partner pipeline and research-to-execution workspace. Distribution tested through an owned short-form account (**70K followers, 20M peak views, ~1M average views / video**). | Node.js · Socket.io · Cloudflare R2 |
+
+---
+
 ## 💻 Languages
 
 <p align="center"><img src="assets/languages.svg" width="880" alt="Code by language — Python 53.6%, JavaScript 13.5%, Racket 10.8%, HTML/CSS 10.0%, Kotlin 6.2%, TypeScript 3.2%, C 2.4%"></p>
@@ -145,50 +189,6 @@
     <td valign="top"><b>💹 Finance</b><br><sub>DCF / FCFF · public comps · 3-statement & LBO · M&A diligence · EV-to-equity bridges</sub></td>
   </tr>
 </table>
-
----
-
-## 🚀 Selected Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Automated-DCF-ML**](https://github.com/HyeonbinJung/Automated-DCF-ML) | Engineers SEC Company Facts / XBRL data and fits **Ridge & Elastic Net** forecasts for six value drivers (revenue growth, EBIT margin, tax, D&A, CapEx, NWC intensity); converts them to NOPAT and FCFF, then a DCF to enterprise / equity value and fair value per share. Chronological training (through 2018) and testing (2022+). | Python · scikit-learn · SciPy |
-| [**InsightStream**](https://github.com/HyeonbinJung/InsightStream) ⭐ | DigitalOcean Gradient™ AI Hackathon — AI observability platform that streams logs through Kafka and uses Llama 3 to detect anomalies and summarize incidents in real time. | Kotlin · Spring Boot · Kafka · Next.js |
-| [**Revenue Dip Lab**](https://github.com/HyeonbinJung/Revenue-Dip-Lab) | Backtests buying companies with resilient revenue after sharp price drawdowns — five-panel research workspace, 3D CAGR surface sweeps and out-of-sample factor search on SEC EDGAR + Yahoo Finance data. | Python · FastAPI · JavaScript · Web Workers · SQLite |
-| [**Signals to Alpha**](https://github.com/HyeonbinJung/Signals-to-Alpha) | Research program turning real-economy signals into testable alpha factors — a U.S. K-Food alternative-data factor model with point-in-time signals, placebo tests and bias audits. | Python · statsmodels · SciPy · Jupyter |
-| [**MUSINSA Seongsu E4**](https://github.com/HyeonbinJung/MUSINSA-Seongsu-E4-Development-Project) | Interactive investment proposal for a retail-led office development in Seoul — KRW 107.3B project, 15.7% equity IRR, 5.11x MOIC, backed by Excel development and retail-income models. | React · Vite · Excel modeling |
-| [**Nanny Mira** — Child Temperament AI](https://github.com/HyeonbinJung/Child-Personality-Assessment-AI-Parenting-Advisor) | Parent-reported child temperament web app in **4 languages** (KO / EN / RU / PT-BR): an age-adapted 28-question assessment, 40 expandable analysis cards and **DeepSeek LLM** parenting guidance grounded with PubMed references; Prodamus card checkout. | Node.js · DeepSeek API · Low-Cost LLM Inference · RAG · Prompt Optimization · Context Caching · Token Budgeting · Usage Quotas |
-| [**Superdupercatai**](https://www.instagram.com/superdupercatai/) | AI comics & animation channel — AI-generated content production, growth and monetization analytics (**57.7K followers**). | Generative AI · content analytics |
-| [**Extriver Partners**](https://extriver.com) | Product & business modeling — creator audience geography, engagement and sector demand to evaluate vertical-software concepts; subscription, conversion and revenue-share scenarios; internal partner pipeline and research-to-execution workspace. Distribution tested through an owned short-form account (**70K followers, 20M peak views, ~1M average views / video**). | Node.js · Socket.io · Cloudflare R2 |
-
----
-
-## 💼 Experience
-
-**Software Engineer** — [Extriver Partners](https://extriver.com) · *May 2026 – Present*
-- Analyzed audiences of creator partners (**18M / 2M / 100K** Instagram, **500K** YouTube) to size demand and product fit
-- Led product management and development of creator-facing AI products and the company's internal workspace
-- Tracked software unit economics, cut LLM costs with token budgets, usage quotas and caching, and monitored production performance
-
-**Data Science Intern** — [Paratus Investment](https://www.paratusinvestment.com/) · Seoul · *Feb 2025 – Aug 2025*  
-<sub>Reference &amp; Recommendation: [JungYeon (Andy) Kim](https://www.linkedin.com/in/jungyeon-andy-kim-90ab0a54), Vice President</sub>
-- Screened 24 private-company targets using Capital IQ and 160+ listed peers; built LTM / NTM EV/Revenue, EV/EBITDA and P/E comp sets with growth, margin and size adjustments
-- Automated peer selection, multiple refreshes and EV-to-equity bridges in Excel / xlwings / Python — **~40% fewer manual model updates**
-- Built five-year FCFF / DCF cases with WACC, terminal-growth and exit-multiple methods; analyzed revenue, EBIT margin, CapEx and NWC sensitivities for transaction pricing
-
-**Private Equity Analyst/Data Science Intern** — [Yuanta Investment](http://yuantainvest.com/) · Seoul · *Oct 2024 – Feb 2025*
-- Valued private companies using 10–15 relevant public peers, normalized EBITDA and trading multiples; supported valuation exhibits and investment committee (IC) reports
-- Built operating and LBO models for prospective investments, stress-testing entry / exit EV/EBITDA, debt paydown, leverage and sponsor IRR / MOIC under base and downside cases
-- Assessed Sunbo Industrial bolt-on targets, pro forma EBITDA and synergies; automated daily deal / industry news clipping and EML-based macro signals for portfolio review
-
-**FA Deal General Intern** — [Deloitte Korea](https://www.deloitte.com/kr/ko.html) · Seoul · *Jan 2023 – Feb 2023*  
-<sub>Reference &amp; Recommendation: [Sang-wook Nam](https://www.deloitte.com/kr/ko/about/people/profiles.sangnam+97cd9250.html), Managing Partner, Financial Advisory</sub>
-- Supported buy-side medical-device M&A diligence, analyzing revenue concentration, normalized EBITDA, working-capital movement and cash-flow conversion
-- Prepared peer screening and target comparisons; identified acquisition candidates with potential commercial synergies, financial risks and integration considerations
-
-**Private Equity Analyst Intern** — [Paratus Investment](https://www.paratusinvestment.com/) · Seoul · *Jun 2022 – Sep 2022*
-- Built manufacturing-sector DCF models linking volume, pricing, margins, CapEx and NWC to FCFF, discounted terminal value and implied equity value
-- Standardized Excel valuation templates and automated research / market-news collection to update peer multiples, assumptions and deal-monitoring inputs
 
 ---
 
