@@ -16,19 +16,37 @@
 
 ## 💻 Languages
 
-What I write most, measured across all of my public repositories (bytes of code):
+<p align="center"><sub>Share of code across all of my public repositories</sub></p>
 
-| Language | Share | |
-|---|---:|---|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | **53.6%** | `██████████▋` |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 13.5% | `██▋` |
-| ![Racket](https://img.shields.io/badge/Racket-9F1D20?style=flat-square&logo=racket&logoColor=white) | 10.8% | `██▏` |
-| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | 10.0% | `██` |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | 6.2% | `█▏` |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 3.2% | `▋` |
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) | 2.4% | `▍` |
+```mermaid
+%%{init: {"theme": "base", "themeVariables": {"pie1": "#3776AB", "pie2": "#F7DF1E", "pie3": "#9F1D20", "pie4": "#E34F26", "pie5": "#7F52FF", "pie6": "#3178C6", "pie7": "#A8B9CC", "pie8": "#9AA0A6", "pieStrokeColor": "#ffffff", "pieOuterStrokeWidth": "0px", "pieSectionTextColor": "#ffffff", "pieLegendTextSize": "14px", "pieSectionTextSize": "13px"}}}%%
+pie showData
+    title Languages (% of code)
+    "Python / Jupyter" : 53.6
+    "JavaScript" : 13.5
+    "Racket" : 10.8
+    "CSS / HTML" : 10.0
+    "Kotlin" : 6.2
+    "TypeScript" : 3.2
+    "C" : 2.4
+    "Other" : 0.3
+```
 
-Also: ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnubash&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-53.6%25-1E4D78?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" height="28">
+  <img src="https://img.shields.io/badge/JavaScript-13.5%25-B59F00?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" height="28">
+  <img src="https://img.shields.io/badge/Racket-10.8%25-6B1315?style=for-the-badge&logo=racket&logoColor=white&labelColor=9F1D20" height="28">
+  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-10.0%25-A3361B?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" height="28">
+  <img src="https://img.shields.io/badge/Kotlin-6.2%25-5A33C9?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=7F52FF" height="28">
+  <img src="https://img.shields.io/badge/TypeScript-3.2%25-1F5A99?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6" height="28">
+  <img src="https://img.shields.io/badge/C-2.4%25-6B7F99?style=for-the-badge&logo=c&logoColor=black&labelColor=A8B9CC" height="28">
+</p>
+
+<p align="center"><b>🧰 Also working with</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,rust,ocaml,r,postgres,bash&theme=light" height="48" alt="C++ · Rust · OCaml · R · SQL · Shell"><br>
+  <sub>C++ &nbsp;·&nbsp; Rust &nbsp;·&nbsp; OCaml &nbsp;·&nbsp; R &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Shell</sub>
+</p>
 
 ---
 
@@ -36,9 +54,13 @@ Also: ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplu
 
 <table>
   <tr>
-    <td width="190" valign="top"><b>🔬 Modeling</b></td>
+    <td width="190" valign="top"><b>🔬 Modeling libraries</b></td>
     <td>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="26">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="26">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="26">
+      <img src="https://img.shields.io/badge/XGBoost-1A73E8?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=for-the-badge" height="26">
       <img src="https://img.shields.io/badge/statsmodels-4051B5?style=for-the-badge" height="26">
       <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="26">
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="26">
@@ -48,15 +70,50 @@ Also: ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplu
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>🤖 LLMs & AI systems</b></td>
+    <td width="190" valign="top"><b>📐 ML models</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Llama%203-0467DF?style=for-the-badge&logo=meta&logoColor=white" height="26">
-      <img src="https://img.shields.io/badge/DigitalOcean%20Gradient%20AI-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" height="26">
-      <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/Linear%20Regression-37474F?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/Ridge-455A64?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/Lasso-546E7A?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/Elastic%20Net-0F766E?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/Logistic%20Regression-37474F?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/Random%20Forest-2E7D32?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/Gradient%20Boosting-1B5E20?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/XGBoost-1A73E8?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/SVM-6A1B9A?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/k--NN-4527A0?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/K--Means-AD1457?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/PCA-00838F?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/ARIMA-5D4037?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/GARCH-6D4C41?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/LSTM-C62828?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/Transformer-B71C1C?style=for-the-badge" height="26">
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>📈 Financial data</b></td>
+    <td width="190" valign="top"><b>🤖 LLMs & AI engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="26">
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="26">
+      <img src="https://img.shields.io/badge/Llama%203-0467DF?style=for-the-badge&logo=meta&logoColor=white" height="26">
+      <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="26">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="26">
+      <img src="https://img.shields.io/badge/LlamaIndex-6E44FF?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/Fine--tuning%20(LoRA%20%2F%20PEFT)-7C3AED?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-334155?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="26">
+      <img src="https://img.shields.io/badge/vLLM-0B5FFF?style=for-the-badge" height="26">
+      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="26">
+      <img src="https://img.shields.io/badge/DigitalOcean%20Gradient%20AI-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" height="26">
+    </td>
+  </tr>
+  <tr>
+    <td width="190" valign="top"><b>📈 Financial data</b></td>
     <td>
       <img src="https://img.shields.io/badge/SEC%20XBRL-1F2937?style=for-the-badge" height="26">
       <img src="https://img.shields.io/badge/Capital%20IQ-005A9C?style=for-the-badge" height="26">
@@ -66,7 +123,7 @@ Also: ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplu
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>⚙️ MLOps & data</b></td>
+    <td width="190" valign="top"><b>⚙️ MLOps & data</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="26">
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="26">
@@ -77,7 +134,7 @@ Also: ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplu
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>🧩 Application stack</b></td>
+    <td width="190" valign="top"><b>🧩 Application stack</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="26">
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="26">
@@ -91,13 +148,13 @@ Also: ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplu
 
 <table>
   <tr>
-    <td width="33%" valign="top"><b>📐 Regularized regression</b><br><sub>Ridge / Elastic Net with CV, linear & polynomial regression, <code>Pipeline</code> + <code>StandardScaler</code></sub></td>
+    <td width="33%" valign="top"><b>📐 Regularized regression</b><br><sub>Ridge / Lasso / Elastic Net with CV, <code>Pipeline</code> + <code>StandardScaler</code></sub></td>
     <td width="33%" valign="top"><b>⏱️ Leak-free validation</b><br><sub>Chronological training and out-of-period testing to avoid look-ahead bias</sub></td>
     <td width="33%" valign="top"><b>📊 Statistical testing</b><br><sub>OLS with <code>statsmodels</code>, Spearman / Pearson correlation, curve fitting with <code>scipy.optimize</code></sub></td>
   </tr>
   <tr>
     <td valign="top"><b>🧮 Factor models</b><br><sub>Alternative-data signals as equity factors; multi-factor strategy fitting and backtesting</sub></td>
-    <td valign="top"><b>🛰️ LLM applications</b><br><sub>Real-time anomaly detection over streaming logs; research-grounded parenting guidance</sub></td>
+    <td valign="top"><b>🛰️ LLM applications</b><br><sub>RAG pipelines with vector search, LoRA / PEFT fine-tuning, real-time anomaly detection and research-grounded guidance</sub></td>
     <td valign="top"><b>💹 Finance</b><br><sub>DCF / FCFF · public comps · 3-statement & LBO · M&A diligence · EV-to-equity bridges</sub></td>
   </tr>
 </table>
@@ -140,11 +197,26 @@ Also: ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplu
 
 ## 🎓 Education
 
-**[Columbia University](https://www.columbia.edu/)** — New York, NY · *2026 – Present*
-Bachelor of Computer Science – Mathematics
-Relevant coursework: Calculus 3, Applied Statistical Computing
-
-**[University of Waterloo](https://cs.uwaterloo.ca)** — *Cheriton School of Computer Science* · Ontario, Canada · *Sep 2024 – Sep 2026*
-Bachelor of Computer Science
-Relevant coursework: Honors Calculus, Algebra, Algorithms, Data Abstraction
-Combined GPA 3.53 / 4.00 (self-calculated) · External coursework: 19 credits (UMass Global 13, BYU 6)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Columbia%20University-1D4F91?style=for-the-badge" height="28"><br>
+      <b>Bachelor of Computer Science – Mathematics</b><br>
+      <sub>📍 New York, NY &nbsp;·&nbsp; 🗓️ 2026 – Present</sub><br><br>
+      <sub><b>Relevant coursework</b></sub><br>
+      <img src="https://img.shields.io/badge/Calculus%203-E8EEF7?style=flat-square" height="20">
+      <img src="https://img.shields.io/badge/Applied%20Statistical%20Computing-E8EEF7?style=flat-square" height="20">
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/University%20of%20Waterloo-000000?style=for-the-badge" height="28"><br>
+      <b>Bachelor of Computer Science</b> · <i>Cheriton School of Computer Science</i><br>
+      <sub>📍 Ontario, Canada &nbsp;·&nbsp; 🗓️ Sep 2024 – Sep 2026</sub><br><br>
+      <sub><b>Relevant coursework</b></sub><br>
+      <img src="https://img.shields.io/badge/Honors%20Calculus-FFF4CC?style=flat-square" height="20">
+      <img src="https://img.shields.io/badge/Algebra-FFF4CC?style=flat-square" height="20">
+      <img src="https://img.shields.io/badge/Algorithms-FFF4CC?style=flat-square" height="20">
+      <img src="https://img.shields.io/badge/Data%20Abstraction-FFF4CC?style=flat-square" height="20"><br><br>
+      <sub>🎯 Combined GPA <b>3.53 / 4.00</b> (self-calculated) &nbsp;·&nbsp; ➕ External coursework 19 credits (UMass Global 13, BYU 6)</sub>
+    </td>
+  </tr>
+</table>
