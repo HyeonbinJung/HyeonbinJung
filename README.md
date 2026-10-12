@@ -232,7 +232,7 @@ Product & business modeling — creator audience geography, engagement and secto
 
 <p>
 <img src="https://img.shields.io/badge/Columbia%20University-B9D9EB?style=for-the-badge" height="28"><br>
-<b>Bachelor of Computer Science – Mathematics</b><br>
+<b>Bachelor of Computer Science – Mathematics</b> · <i>Department of Mathematics</i><br>
 <sub>🎓 Minor in Statistics</sub><br>
 <sub>📍 New York, NY &nbsp;·&nbsp; 🗓️ 2026 – Present</sub><br><br>
 <sub><b>Relevant coursework</b></sub><br>
