@@ -16,20 +16,7 @@
 
 ## 💻 Languages
 
-<p align="center"><b>Code by language</b><br><sub>Share of code across all of my public repositories</sub></p>
-
-```mermaid
-%%{init: {"theme": "base", "themeVariables": {"pie1": "#3776AB", "pie2": "#F7DF1E", "pie3": "#9F1D20", "pie4": "#E34F26", "pie5": "#7F52FF", "pie6": "#3178C6", "pie7": "#A8B9CC", "pie8": "#9AA0A6", "pieOpacity": "1", "pieStrokeColor": "#ffffff", "pieStrokeWidth": "2px", "pieOuterStrokeWidth": "0px", "pieSectionTextColor": "#ffffff", "pieLegendTextSize": "14px", "pieSectionTextSize": "13px"}}}%%
-pie showData
-    "Python / Jupyter" : 53.6
-    "JavaScript" : 13.5
-    "Racket" : 10.8
-    "CSS / HTML" : 10.0
-    "Kotlin" : 6.2
-    "TypeScript" : 3.2
-    "C" : 2.4
-    "Other" : 0.3
-```
+<p align="center"><img src="assets/languages.svg" width="880" alt="Code by language — Python 53.6%, JavaScript 13.5%, Racket 10.8%, HTML/CSS 10.0%, Kotlin 6.2%, TypeScript 3.2%, C 2.4%"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-53.6%25-1E4D78?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" height="28">
@@ -166,7 +153,7 @@ pie showData
 |---|---|---|
 | [**Automated-DCF-ML**](https://github.com/HyeonbinJung/Automated-DCF-ML) | Engineers SEC Company Facts / XBRL data and fits **Ridge & Elastic Net** forecasts for six value drivers (revenue growth, EBIT margin, tax, D&A, CapEx, NWC intensity); converts them to NOPAT and FCFF, then a DCF to enterprise / equity value and fair value per share. Chronological training (through 2018) and testing (2022+). | Python · scikit-learn · SciPy |
 | [**InsightStream**](https://github.com/HyeonbinJung/InsightStream) ⭐ | DigitalOcean Gradient™ AI Hackathon — AI observability platform that streams logs through Kafka and uses Llama 3 to detect anomalies and summarize incidents in real time. | Kotlin · Spring Boot · Kafka · Next.js |
-| [**Nanny Mira** — Child Temperament AI](https://github.com/HyeonbinJung/Child-Personality-Assessment-AI-Parenting-Advisor) | Parent-reported child temperament web app in **4 languages** (KO / EN / RU / PT-BR): an age-adapted 28-question assessment, 40 expandable analysis cards and **DeepSeek LLM** parenting guidance grounded with PubMed references; Prodamus card checkout. | Node.js · DeepSeek API · PubMed |
+| [**Nanny Mira** — Child Temperament AI](https://github.com/HyeonbinJung/Child-Personality-Assessment-AI-Parenting-Advisor) | Parent-reported child temperament web app in **4 languages** (KO / EN / RU / PT-BR): an age-adapted 28-question assessment, 40 expandable analysis cards and **DeepSeek LLM** parenting guidance grounded with PubMed references; Prodamus card checkout. | Node.js · DeepSeek API · Low-Cost LLM Inference · RAG · Prompt Optimization · Context Caching · Token Budgeting · Usage Quotas |
 | [**Superdupercatai**](https://www.instagram.com/superdupercatai/) | AI comics & animation channel — AI-generated content production, growth and monetization analytics (**57.7K followers**). | Generative AI · content analytics |
 | [**Extriver Partners**](https://extriver.com) | Product & business modeling — creator audience geography, engagement and sector demand to evaluate vertical-software concepts; subscription, conversion and revenue-share scenarios; internal partner pipeline and research-to-execution workspace. Distribution tested through an owned short-form account (**70K followers, 20M peak views, ~1M average views / video**). | Node.js · Socket.io · Cloudflare R2 |
 
