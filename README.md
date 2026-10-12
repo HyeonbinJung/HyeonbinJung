@@ -113,9 +113,7 @@ Also: ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplu
 | **Consumption-to-Alpha** | U.S. K-Food alternative-data factor model — tests consumption signals as an equity return factor. | Python · statsmodels · SciPy |
 | [**Nanny Mira** — Child Temperament AI](https://github.com/HyeonbinJung/Child-Personality-Assessment-AI-Parenting-Advisor) | Parent-reported child temperament web app in **4 languages** (KO / EN / RU / PT-BR): an age-adapted 28-question assessment, 40 expandable analysis cards and **DeepSeek LLM** parenting guidance grounded with PubMed references; Prodamus card checkout. | Node.js · DeepSeek API · PubMed |
 | [**Superdupercatai**](https://www.instagram.com/superdupercatai/) | AI comics & animation channel — AI-generated content production, growth and monetization analytics (**57.7K followers**). | Generative AI · content analytics |
-| **Extriver Partners** | Product & business modeling — creator audience geography, engagement and sector demand to evaluate vertical-software concepts; subscription, conversion and revenue-share scenarios; internal partner pipeline and research-to-execution workspace. Distribution tested through an owned short-form account (**70K followers, 20M peak views, ~1M average views / video**). | Node.js · Socket.io · Cloudflare R2 |
-| **Quant Research & Backtesting Platform** | MLOps-style research platform on Kubernetes: data collectors, a factor engine on PostgreSQL, strategy fitting / backtesting and a model-serving API. | Kubernetes · PostgreSQL · Python |
-| **Quant Strategy · Investment Helper** | Basic systematic trading strategies; short-term price prediction and buy / sell timing. | Python · pandas · yfinance |
+| [**Extriver Partners**](https://extriver.com) | Product & business modeling — creator audience geography, engagement and sector demand to evaluate vertical-software concepts; subscription, conversion and revenue-share scenarios; internal partner pipeline and research-to-execution workspace. Distribution tested through an owned short-form account (**70K followers, 20M peak views, ~1M average views / video**). | Node.js · Socket.io · Cloudflare R2 |
 
 ---
 
