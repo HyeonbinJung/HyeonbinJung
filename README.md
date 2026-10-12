@@ -17,8 +17,10 @@
 ## 💼 Experience
 
 **Quantitative Researcher & Trader** — [D. E. Shaw](https://www.deshaw.com/) · [IBK Securities](https://www.ibks.com/) · [NH Hedge Asset Management](http://www.nhham.com/) · *May 2027 – Aug 2027*  
+<sub>Summer Internship · Offer Received</sub>  
 <img src="assets/rule.svg" width="100%" height="1">
-- *Offer Received*
+- Will design systematic quantitative strategies for market analysis — engineering alpha signals from price, order-flow, volatility and fundamental data, and validating them with leak-free walk-forward backtests, transaction-cost modeling and factor-level risk attribution
+- Will build investment logic supporting proprietary trading — turning research into rule-based entry / exit, position-sizing and risk-limit frameworks, and monitoring live P&L, exposures and regime shifts to iterate on models in production
 
 **Software Engineer** — [Extriver Partners](https://extriver.com) · *May 2026 – Present*  
 <img src="assets/rule.svg" width="100%" height="1">
