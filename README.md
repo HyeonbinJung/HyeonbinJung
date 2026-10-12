@@ -106,7 +106,7 @@ Parent-reported child temperament web app in **4 languages** (KO / EN / RU / PT-
 <sub>🧰 Node.js · DeepSeek API · Low-Cost LLM Inference · RAG · Prompt Optimization · Context Caching · Token Budgeting · Usage Quotas</sub>
 
 [**Superdupercatai**](https://www.instagram.com/superdupercatai/)  
-AI comics & animation channel — AI-generated content production, growth and monetization analytics (**57.7K followers**).  
+AI comics & animation channel — AI-generated content production, growth and monetization analytics (**70K followers, 20M peak views, ~1M average views / video**).  
 <sub>🧰 Generative AI · content analytics</sub>
 
 [**Extriver Partners**](https://extriver.com)  
