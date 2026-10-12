@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="774" viewBox="0 0 400 774" role="img" aria-label="Codebase evolution — monthly language trends and October 2026 language mix">
+  <style>
+    .head{font:600 10.5px ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:.10em;fill:#8999ab}
+    .title{font:600 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;fill:#e8edf3}
+    .section{font:600 11px ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:.06em;fill:#b8c7d6}
+    .axis{font:11px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#748498}
+    .label{font:13px -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;fill:#c4cfdb}
+    .num{font:600 13px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#e7edf3}
+    .big{font:700 26px ui-monospace,SFMono-Regular,Consolas,monospace;fill:#f0f3f7}
+    .up{font:600 13px ui-monospace,Consolas,monospace;fill:#7ec9a7}
+    .top3{font:700 19px ui-monospace,Consolas,monospace;fill:#e8edf3}
+    .grid{stroke:#25303d;stroke-width:1;stroke-dasharray:2 4}
+    .rule{stroke:#293441;stroke-width:1}
+  </style>
+  <rect x=".5" y=".5" width="399" height="773" rx="12" fill="#0c1118" stroke="#2a3440"/>
+  <text x="20" y="28" class="head">ENGINEERING / REPOSITORY INTELLIGENCE</text>
+  <text x="20" y="54" class="title">Codebase evolution</text>
+  <text x="20" y="74" class="axis">OCT 2025 — OCT 2026</text>
+  <text x="20" y="104" class="head">TOTAL / OCT 2026</text>
+  <text x="20" y="132" class="big">3,689,629</text>
+  <text x="380" y="132" text-anchor="end" class="up">+752.5%</text>
+  <line x1="20" y1="148" x2="380" y2="148" class="rule"/>
+  <text x="20" y="172" class="section">01 / LANGUAGE TRAJECTORIES</text>
+  <text x="380" y="172" text-anchor="end" class="axis">BYTES</text>
+  <line x1="56" y1="322.0" x2="372" y2="322.0" class="grid"/>
+  <text x="48" y="326.0" text-anchor="end" class="axis">0</text>
+  <line x1="56" y1="281.4" x2="372" y2="281.4" class="grid"/>
+  <text x="48" y="285.4" text-anchor="end" class="axis">500k</text>
+  <line x1="56" y1="240.8" x2="372" y2="240.8" class="grid"/>
+  <text x="48" y="244.8" text-anchor="end" class="axis">1.0m</text>
+  <line x1="56" y1="200.1" x2="372" y2="200.1" class="grid"/>
+  <text x="48" y="204.1" text-anchor="end" class="axis">1.5m</text>
+  <text x="56.0" y="340" class="axis" text-anchor="start">OCT 25</text>
+  <text x="214.0" y="340" class="axis" text-anchor="middle">APR 26</text>
+  <text x="372.0" y="340" class="axis" text-anchor="end">OCT 26</text>
+  <polyline points="56.0,322.0 82.3,321.9 108.7,321.8 135.0,321.8 161.3,321.8 187.7,320.9 214.0,318.3 240.3,317.0 266.7,314.3 293.0,314.3 319.3,309.6 345.7,305.1 372.0,280.7" fill="none" stroke="#bba4db" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="372.0" cy="280.7" r="3.4" fill="#bba4db" stroke="#0c1118" stroke-width="1.5"/>
+  <polyline points="56.0,294.0 82.3,294.0 108.7,294.0 135.0,294.0 161.3,294.0 187.7,294.0 214.0,294.0 240.3,294.0 266.7,294.0 293.0,294.0 319.3,294.0 345.7,294.0 372.0,275.8" fill="none" stroke="#70a7df" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="372.0" cy="275.8" r="3.4" fill="#70a7df" stroke="#0c1118" stroke-width="1.5"/>
+  <polyline points="56.0,319.9 82.3,319.1 108.7,319.1 135.0,319.1 161.3,319.1 187.7,318.3 214.0,318.3 240.3,318.3 266.7,318.3 293.0,318.3 319.3,318.3 345.7,302.7 372.0,267.1" fill="none" stroke="#6bc8a3" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="372.0" cy="267.1" r="3.4" fill="#6bc8a3" stroke="#0c1118" stroke-width="1.5"/>
+  <polyline points="56.0,322.0 82.3,321.7 108.7,321.5 135.0,321.5 161.3,321.5 187.7,321.5 214.0,319.0 240.3,317.5 266.7,314.8 293.0,314.8 319.3,299.5 345.7,292.4 372.0,199.1" fill="none" stroke="#f2a65a" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="372.0" cy="199.1" r="3.4" fill="#f2a65a" stroke="#0c1118" stroke-width="1.5"/>
+  <line x1="20" y1="358" x2="36" y2="358" stroke="#f2a65a" stroke-width="2.5"/>
+  <text x="42" y="362" class="label">JavaScript</text>
+  <line x1="112" y1="358" x2="128" y2="358" stroke="#6bc8a3" stroke-width="2.5"/>
+  <text x="134" y="362" class="label">Python</text>
+  <line x1="204" y1="358" x2="220" y2="358" stroke="#70a7df" stroke-width="2.5"/>
+  <text x="226" y="362" class="label">Jupyter</text>
+  <line x1="296" y1="358" x2="312" y2="358" stroke="#bba4db" stroke-width="2.5"/>
+  <text x="318" y="362" class="label">CSS</text>
+  <line x1="20" y1="388" x2="380" y2="388" class="rule"/>
+  <text x="20" y="414" class="section">02 / OCTOBER MIX</text>
+  <circle cx="24" cy="438" r="3.5" fill="#f2a65a"/>
+  <text x="36" y="442" class="label">JavaScript</text>
+  <rect x="130" y="435" width="190" height="4" rx="2" fill="#202a35"/>
+  <rect x="130" y="435" width="190.0" height="4" rx="2" fill="#f2a65a"/>
+  <text x="380" y="442" text-anchor="end" class="num">41.0%</text>
+  <circle cx="24" cy="466" r="3.5" fill="#6bc8a3"/>
+  <text x="36" y="470" class="label">Python</text>
+  <rect x="130" y="463" width="190" height="4" rx="2" fill="#202a35"/>
+  <rect x="130" y="463" width="84.8" height="4" rx="2" fill="#6bc8a3"/>
+  <text x="380" y="470" text-anchor="end" class="num">18.3%</text>
+  <circle cx="24" cy="494" r="3.5" fill="#70a7df"/>
+  <text x="36" y="498" class="label">Jupyter</text>
+  <rect x="130" y="491" width="190" height="4" rx="2" fill="#202a35"/>
+  <rect x="130" y="491" width="71.4" height="4" rx="2" fill="#70a7df"/>
+  <text x="380" y="498" text-anchor="end" class="num">15.4%</text>
+  <circle cx="24" cy="522" r="3.5" fill="#bba4db"/>
+  <text x="36" y="526" class="label">CSS</text>
+  <rect x="130" y="519" width="190" height="4" rx="2" fill="#202a35"/>
+  <rect x="130" y="519" width="63.8" height="4" rx="2" fill="#bba4db"/>
+  <text x="380" y="526" text-anchor="end" class="num">13.8%</text>
+  <circle cx="24" cy="550" r="3.5" fill="#7d94a8"/>
+  <text x="36" y="554" class="label">HTML</text>
+  <rect x="130" y="547" width="190" height="4" rx="2" fill="#202a35"/>
+  <rect x="130" y="547" width="19.3" height="4" rx="2" fill="#7d94a8"/>
+  <text x="380" y="554" text-anchor="end" class="num">4.2%</text>
+  <circle cx="24" cy="578" r="3.5" fill="#6e8299"/>
+  <text x="36" y="582" class="label">Racket</text>
+  <rect x="130" y="575" width="190" height="4" rx="2" fill="#202a35"/>
+  <rect x="130" y="575" width="15.8" height="4" rx="2" fill="#6e8299"/>
+  <text x="380" y="582" text-anchor="end" class="num">3.4%</text>
+  <text x="20" y="608" class="axis">TOP 3 LANGUAGES</text>
+  <text x="380" y="610" text-anchor="end" class="top3">74.7%</text>
+  <line x1="20" y1="628" x2="380" y2="628" class="rule"/>
+  <text x="20" y="654" class="section">03 / TOTAL CODE VOLUME</text>
+  <text x="380" y="654" text-anchor="end" class="axis">13 MONTHLY SNAPSHOTS</text>
+  <rect x="20.0" y="730.3" width="22.2" height="7.7" rx="2" fill="#496079"/>
+  <rect x="48.2" y="729.0" width="22.2" height="9.0" rx="2" fill="#496079"/>
+  <rect x="76.3" y="728.8" width="22.2" height="9.2" rx="2" fill="#496079"/>
+  <rect x="104.5" y="728.6" width="22.2" height="9.4" rx="2" fill="#496079"/>
+  <rect x="132.6" y="728.3" width="22.2" height="9.7" rx="2" fill="#496079"/>
+  <rect x="160.8" y="725.9" width="22.2" height="12.1" rx="2" fill="#496079"/>
+  <rect x="188.9" y="724.8" width="22.2" height="13.2" rx="2" fill="#496079"/>
+  <rect x="217.1" y="723.3" width="22.2" height="14.7" rx="2" fill="#496079"/>
+  <rect x="245.2" y="721.6" width="22.2" height="16.4" rx="2" fill="#496079"/>
+  <rect x="273.4" y="721.6" width="22.2" height="16.4" rx="2" fill="#496079"/>
+  <rect x="301.5" y="717.2" width="22.2" height="20.8" rx="2" fill="#496079"/>
+  <rect x="329.7" y="710.9" width="22.2" height="27.1" rx="2" fill="#496079"/>
+  <rect x="357.8" y="672.0" width="22.2" height="66.0" rx="2" fill="#e7a15a"/>
+  <text x="20" y="756" class="axis">OCT 25</text>
+  <text x="380" y="756" text-anchor="end" class="axis">OCT 26</text>
+</svg>

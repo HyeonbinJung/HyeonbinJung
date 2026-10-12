@@ -48,7 +48,12 @@
 
 ## 💻 Languages
 
-<p align="center"><img src="assets/languages.svg" width="880" alt="Codebase evolution — monthly language trends Oct 2025 to Oct 2026; October 2026 mix: JavaScript 41.0%, Python 18.3%, Jupyter 15.4%, CSS 13.8%, HTML 4.2%, Racket 3.4%"></p>
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/languages-mobile.svg">
+    <img src="assets/languages.svg" width="880" alt="Codebase evolution — monthly language trends Oct 2025 to Oct 2026; October 2026 mix: JavaScript 41.0%, Python 18.3%, Jupyter 15.4%, CSS 13.8%, HTML 4.2%, Racket 3.4%">
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-53.6%25-1E4D78?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" height="28">
