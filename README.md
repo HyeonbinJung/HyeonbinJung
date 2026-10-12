@@ -111,6 +111,16 @@ AI comics & animation channel — AI-generated content production, growth and mo
 
 [**Extriver Partners**](https://extriver.com)  
 Product & business modeling — creator audience geography, engagement and sector demand to evaluate vertical-software concepts; subscription, conversion and revenue-share scenarios; internal partner pipeline and research-to-execution workspace. Distribution tested through an owned short-form account (**70K followers, 20M peak views, ~1M average views / video**).  
+**🤝 Partners**
+- **LoveSoo** — [Instagram](https://www.instagram.com/lovesoo/) · [TikTok](https://www.tiktok.com/@lovesoo) · [YouTube](https://www.youtube.com/@LOVESOO) · [Linktree](https://linktr.ee/lovesoo)
+- **Stick Stories** — [Instagram](https://www.instagram.com/stick_storiess/)
+- **Илона Масельскене** — [Instagram](https://www.instagram.com/ilonamaselskene/)
+- **Superdupercatai** — [Instagram](https://www.instagram.com/superdupercatai/)
+- **틱톡★꽐루** — [YouTube](https://www.youtube.com/@min_1923)
+- **Bushra** — [Instagram](https://www.instagram.com/iamsecretgirl023/)
+- **BTS BORA WORLD (보라TV)** — [Instagram](https://www.instagram.com/btsboraworld/) · [TikTok](https://www.tiktok.com/@btsboraworld)
+- **Tushar Shetty** — [Instagram](https://www.instagram.com/tusharshetty95/) · [YouTube](https://www.youtube.com/@tusharshetty95) · [Facebook](https://www.facebook.com/tusharshetty95/)
+
 <sub>🧰 Node.js · Socket.io · Cloudflare R2</sub>
 
 ---
