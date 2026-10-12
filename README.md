@@ -52,6 +52,7 @@ Also: ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplu
     <td>
       <img src="https://img.shields.io/badge/Llama%203-0467DF?style=for-the-badge&logo=meta&logoColor=white" height="26">
       <img src="https://img.shields.io/badge/DigitalOcean%20Gradient%20AI-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" height="26">
+      <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" height="26">
     </td>
   </tr>
   <tr>
@@ -96,7 +97,7 @@ Also: ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplu
   </tr>
   <tr>
     <td valign="top"><b>🧮 Factor models</b><br><sub>Alternative-data signals as equity factors; multi-factor strategy fitting and backtesting</sub></td>
-    <td valign="top"><b>🛰️ LLM observability</b><br><sub>Real-time anomaly detection and incident summaries over streaming logs</sub></td>
+    <td valign="top"><b>🛰️ LLM applications</b><br><sub>Real-time anomaly detection over streaming logs; research-grounded parenting guidance</sub></td>
     <td valign="top"><b>💹 Finance</b><br><sub>DCF / FCFF · public comps · 3-statement & LBO · M&A diligence · EV-to-equity bridges</sub></td>
   </tr>
 </table>
@@ -109,7 +110,8 @@ Also: ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplu
 |---|---|---|
 | [**Automated-DCF-ML**](https://github.com/HyeonbinJung/Automated-DCF-ML) | Engineers SEC Company Facts / XBRL data and fits **Ridge & Elastic Net** forecasts for six value drivers (revenue growth, EBIT margin, tax, D&A, CapEx, NWC intensity); converts them to NOPAT and FCFF, then a DCF to enterprise / equity value and fair value per share. Chronological training (through 2018) and testing (2022+). | Python · scikit-learn · SciPy |
 | [**InsightStream**](https://github.com/HyeonbinJung/InsightStream) ⭐ | DigitalOcean Gradient™ AI Hackathon — AI observability platform that streams logs through Kafka and uses Llama 3 to detect anomalies and summarize incidents in real time. | Kotlin · Spring Boot · Kafka · Next.js |
-| [**Consumption-to-Alpha**](https://github.com/HyeonbinJung/Consumption-to-Alpha-A-U.S.-K-Food-Alternative-Data-Factor-Model) | U.S. K-Food alternative-data factor model — tests consumption signals as an equity return factor. | Python · statsmodels · SciPy |
+| **Consumption-to-Alpha** | U.S. K-Food alternative-data factor model — tests consumption signals as an equity return factor. | Python · statsmodels · SciPy |
+| [**Nanny Mira** — Child Temperament AI](https://github.com/HyeonbinJung/Child-Personality-Assessment-AI-Parenting-Advisor) | Parent-reported child temperament web app in **4 languages** (KO / EN / RU / PT-BR): an age-adapted 28-question assessment, 40 expandable analysis cards and **DeepSeek LLM** parenting guidance grounded with PubMed references; Prodamus card checkout. | Node.js · DeepSeek API · PubMed |
 | [**Superdupercatai**](https://www.instagram.com/superdupercatai/) | AI comics & animation channel — AI-generated content production, growth and monetization analytics (**57.7K followers**). | Generative AI · content analytics |
 | **Extriver Partners** | Product & business modeling — creator audience geography, engagement and sector demand to evaluate vertical-software concepts; subscription, conversion and revenue-share scenarios; internal partner pipeline and research-to-execution workspace. Distribution tested through an owned short-form account (**70K followers, 20M peak views, ~1M average views / video**). | Node.js · Socket.io · Cloudflare R2 |
 | **Quant Research & Backtesting Platform** | MLOps-style research platform on Kubernetes: data collectors, a factor engine on PostgreSQL, strategy fitting / backtesting and a model-serving API. | Kubernetes · PostgreSQL · Python |
