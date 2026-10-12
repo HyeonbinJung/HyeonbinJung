@@ -176,7 +176,7 @@ pie showData
 ## 💼 Experience
 
 **Data Science Intern** — [Paratus Investment](https://www.paratusinvestment.com/) · Seoul · *Feb 2025 – Aug 2025*  
-<sub>Reference: [JungYeon (Andy) Kim](https://www.linkedin.com/in/jungyeon-andy-kim-90ab0a54), Vice President</sub>
+<sub>Reference &amp; Recommendation: [JungYeon (Andy) Kim](https://www.linkedin.com/in/jungyeon-andy-kim-90ab0a54), Vice President</sub>
 - Screened 24 private-company targets using Capital IQ and 160+ listed peers; built LTM / NTM EV/Revenue, EV/EBITDA and P/E comp sets with growth, margin and size adjustments
 - Automated peer selection, multiple refreshes and EV-to-equity bridges in Excel / xlwings / Python — **~40% fewer manual model updates**
 - Built five-year FCFF / DCF cases with WACC, terminal-growth and exit-multiple methods; analyzed revenue, EBIT margin, CapEx and NWC sensitivities for transaction pricing
@@ -187,7 +187,7 @@ pie showData
 - Assessed Sunbo Industrial bolt-on targets, pro forma EBITDA and synergies; automated daily deal / industry news clipping and EML-based macro signals for portfolio review
 
 **FA Deal Advisory Intern** — [Deloitte Korea](https://www.deloitte.com/kr/ko.html) · Seoul · *Jan 2023 – Feb 2023*  
-<sub>Reference: [Sang-wook Nam](https://www.deloitte.com/kr/ko/about/people/profiles.sangnam+97cd9250.html), Head of Financial Advisory</sub>
+<sub>Reference &amp; Recommendation: [Sang-wook Nam](https://www.deloitte.com/kr/ko/about/people/profiles.sangnam+97cd9250.html), Managing Partner</sub>
 - Supported buy-side medical-device M&A diligence, analyzing revenue concentration, normalized EBITDA, working-capital movement and cash-flow conversion
 - Prepared peer screening and target comparisons; identified acquisition candidates with potential commercial synergies, financial risks and integration considerations
 
@@ -207,8 +207,8 @@ pie showData
       <sub>🎓 Minor in Statistics</sub><br>
       <sub>📍 New York, NY &nbsp;·&nbsp; 🗓️ 2026 – Present</sub><br><br>
       <sub><b>Relevant coursework</b></sub><br>
-      <img src="https://img.shields.io/badge/Calculus%203-DCEEF8?style=flat-square" height="20"><br>
-      <img src="https://img.shields.io/badge/Applied%20Statistical%20Computing-DCEEF8?style=flat-square" height="20">
+      <img src="https://img.shields.io/badge/MATH%20UN1201%20·%20Calculus%20III-DCEEF8?style=flat-square" height="20"><br>
+      <img src="https://img.shields.io/badge/STAT%20UN2102%20·%20Applied%20Statistical%20Computing-DCEEF8?style=flat-square" height="20">
     </td>
     <td width="50%" valign="top">
       <img src="https://img.shields.io/badge/University%20of%20Waterloo-FED34C?style=for-the-badge" height="28"><br>
@@ -224,7 +224,7 @@ pie showData
       <img src="https://img.shields.io/badge/CS%20136%20·%20Elementary%20Algorithm%20Design%20and%20Data%20Abstraction-FFF0BF?style=flat-square" height="20"><br>
       <img src="https://img.shields.io/badge/ECON%20101%20·%20Introduction%20to%20Microeconomics-FFF0BF?style=flat-square" height="20"><br>
       <img src="https://img.shields.io/badge/ECON%20102%20·%20Introduction%20to%20Macroeconomics-FFF0BF?style=flat-square" height="20"><br>
-      <img src="https://img.shields.io/badge/Introduction%20to%20Business-FFF0BF?style=flat-square" height="20"><br><br>
+      <img src="https://img.shields.io/badge/BUS%20111W%20%28Laurier%20BU111%29%20·%20Understanding%20the%20Business%20Environment-FFF0BF?style=flat-square" height="20"><br><br>
       <sub>🎯 Combined GPA <b>3.53 / 4.00</b> (self-calculated) &nbsp;·&nbsp; ➕ External coursework 19 credits (UMass Global 13, BYU 6)</sub>
     </td>
   </tr>
