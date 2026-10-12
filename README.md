@@ -51,11 +51,6 @@ pie showData
 
 ## 🧠 Machine Learning & Data
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light" height="56" alt="PyTorch · TensorFlow · scikit-learn"><br>
-  <sub><b>PyTorch</b> &nbsp;·&nbsp; <b>TensorFlow</b> &nbsp;·&nbsp; <b>scikit-learn</b></sub>
-</p>
-
 <table>
   <tr>
     <td width="190" valign="top"><b>🔬 Modeling libraries</b></td>
