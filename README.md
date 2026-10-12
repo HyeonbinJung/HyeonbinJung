@@ -99,9 +99,9 @@ Backtests buying companies with resilient revenue after sharp price drawdowns �
 Research program turning real-economy signals into testable alpha factors — a U.S. K-Food alternative-data factor model with point-in-time signals, placebo tests and bias audits.  
 <sub>🧰 Python · statsmodels · SciPy · Jupyter</sub>
 
-[**MUSINSA Seongsu E4**](https://github.com/HyeonbinJung/MUSINSA-Seongsu-E4-Development-Project)  
-Interactive investment proposal for a retail-led office development in Seoul — KRW 107.3B project, 15.7% equity IRR, 5.11x MOIC, backed by Excel development and retail-income models.  
-<sub>🧰 React · Vite · Excel modeling</sub>
+[**MIDAS Terminal**](https://github.com/HyeonbinJung/Midas-Terminal)  
+Automated equity research terminal — ticker → market data → SEC EDGAR filings → financial analysis → peer comparison → rule-based catalysts & risks, exported as **English / Korean Word research reports**; async fetching with single-flight TTL caching and rate limiting.  
+<sub>🧰 Python · FastAPI · JavaScript · Plotly · SQLite · SEC EDGAR</sub>
 
 [**Nanny Mira** — Child Temperament AI](https://github.com/HyeonbinJung/Child-Personality-Assessment-AI-Parenting-Advisor)  
 Parent-reported child temperament web app in **4 languages** (KO / EN / RU / PT-BR): an age-adapted 28-question assessment, 40 expandable analysis cards and **DeepSeek LLM** parenting guidance grounded with PubMed references; Prodamus card checkout.  
