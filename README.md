@@ -16,12 +16,11 @@
 
 ## 💻 Languages
 
-<p align="center"><sub>Share of code across all of my public repositories</sub></p>
+<p align="center"><b>Code by language</b><br><sub>Share of code across all of my public repositories</sub></p>
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"pie1": "#3776AB", "pie2": "#F7DF1E", "pie3": "#9F1D20", "pie4": "#E34F26", "pie5": "#7F52FF", "pie6": "#3178C6", "pie7": "#A8B9CC", "pie8": "#9AA0A6", "pieStrokeColor": "#ffffff", "pieOuterStrokeWidth": "0px", "pieSectionTextColor": "#ffffff", "pieLegendTextSize": "14px", "pieSectionTextSize": "13px"}}}%%
+%%{init: {"theme": "base", "themeVariables": {"pie1": "#3776AB", "pie2": "#F7DF1E", "pie3": "#9F1D20", "pie4": "#E34F26", "pie5": "#7F52FF", "pie6": "#3178C6", "pie7": "#A8B9CC", "pie8": "#9AA0A6", "pieOpacity": "1", "pieStrokeColor": "#ffffff", "pieStrokeWidth": "2px", "pieOuterStrokeWidth": "0px", "pieSectionTextColor": "#ffffff", "pieLegendTextSize": "14px", "pieSectionTextSize": "13px"}}}%%
 pie showData
-    title Languages (% of code)
     "Python / Jupyter" : 53.6
     "JavaScript" : 13.5
     "Racket" : 10.8
