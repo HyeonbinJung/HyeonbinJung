@@ -17,7 +17,7 @@
 ## 💼 Experience
 
 **Quantitative Researcher & Trader** — [D. E. Shaw](https://www.deshaw.com/) · [IBK Securities](https://www.ibks.com/) · NH Hedge Asset Management · *May 2027 – Aug 2027*  
-*Offer Received*
+- *Offer Received*
 
 **Software Engineer** — [Extriver Partners](https://extriver.com) · *May 2026 – Present*
 - Analyzed audiences of creator partners (**18M / 2M / 100K** Instagram, **500K** YouTube) to size demand and product fit
