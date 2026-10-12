@@ -162,7 +162,7 @@
 
 ## 💼 Experience
 
-**Machine Learning Engineer** — [Extriver Partners](https://extriver.com) · *May 2026 – Present*
+**Software Engineer** — [Extriver Partners](https://extriver.com) · *May 2026 – Present*
 - Analyzed audiences of creator partners (**18M / 2M / 100K** Instagram, **500K** YouTube) to size demand and product fit
 - Led product management and development of creator-facing AI products and the company's internal workspace
 - Tracked software unit economics, cut LLM costs with token budgets, usage quotas and caching, and monitored production performance
