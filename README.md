@@ -9,7 +9,7 @@
   <a href="mailto:hj2784@columbia.edu"><img src="https://img.shields.io/badge/Email-hj2784%40columbia.edu-B31B1B?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://hyeonbin.dev"><img src="https://img.shields.io/badge/Website-hyeonbin.dev-000000?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/hyeonbin-jung-a49b79274/"><img src="https://img.shields.io/badge/LinkedIn-Hyeonbin%20Jung-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc+PHBhdGggZmlsbD0nd2hpdGUnIGQ9J000IDloNHYxMUg0ek02IDMuNWEyIDIgMCAxIDEgMCA0IDIgMiAwIDAgMSAwLTR6TTEwIDloMy44djEuNmguMWMuNS0xIDEuOC0xLjkgMy43LTEuOSA0IDAgNC40IDIuNSA0LjQgNS44VjIwaC00di01YzAtMS4yIDAtMi44LTEuNy0yLjhzLTIgMS4zLTIgMi43VjIwaC00eicvPjwvc3ZnPg=="></a>
-  <a href="https://extriver.com"><img src="https://img.shields.io/badge/Extriver-extriver.com-1F2937?style=flat-square"></a>
+  <a href="https://www.instagram.com/hyeonbin_jung/"><img src="https://img.shields.io/badge/Instagram-%40hyeonbin__jung-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
