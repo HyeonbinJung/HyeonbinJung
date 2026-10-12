@@ -105,6 +105,7 @@ Interactive investment proposal for a retail-led office development in Seoul —
 
 [**Nanny Mira** — Child Temperament AI](https://github.com/HyeonbinJung/Child-Personality-Assessment-AI-Parenting-Advisor)  
 Parent-reported child temperament web app in **4 languages** (KO / EN / RU / PT-BR): an age-adapted 28-question assessment, 40 expandable analysis cards and **DeepSeek LLM** parenting guidance grounded with PubMed references; Prodamus card checkout.  
+<sub>Represented by: [Илона Масельскене](https://www.instagram.com/ilonamaselskene/), Russia partner</sub>  
 <sub>🧰 Node.js · DeepSeek API · Low-Cost LLM Inference · RAG · Prompt Optimization · Context Caching · Token Budgeting · Usage Quotas</sub>
 
 [**Superdupercatai**](https://www.instagram.com/superdupercatai/)  
