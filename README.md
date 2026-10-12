@@ -235,7 +235,7 @@ Product & business modeling — creator audience geography, engagement and secto
 <b>Bachelor of Computer Science</b> · <i>Cheriton School of Computer Science</i><br>
 <sub>🎓 Minors in Combinatorics &amp; Optimization and Economics</sub><br>
 <sub>📍 Ontario, Canada &nbsp;·&nbsp; 🗓️ Sep 2024 – Sep 2026</sub><br>
-<sub>Reference &amp; Recommendation: <a href="https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/tammy-schirle/index.html">Tammy Schirle</a>, Professor of Economics, Wilfrid Laurier University &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/jmread/">James Read</a></sub><br><br>
+<sub>Reference &amp; Recommendation: <a href="https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/tammy-schirle/index.html">Tammy Schirle</a>, Professor of Economics, Wilfrid Laurier University &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/jmread/">James Read</a>, Chair of Industrial Design, Massachusetts College of Art and Design</sub><br><br>
 <sub><b>Relevant coursework</b></sub><br>
 <img src="https://img.shields.io/badge/MATH%20135%20·%20Algebra%20for%20Honours%20Mathematics-FFF0BF?style=flat-square" height="20"><br>
 <img src="https://img.shields.io/badge/MATH%20136%20·%20Linear%20Algebra%201%20for%20Honours%20Mathematics-FFF0BF?style=flat-square" height="20"><br>
