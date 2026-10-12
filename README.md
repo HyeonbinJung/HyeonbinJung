@@ -16,7 +16,7 @@
 
 ## 💼 Experience
 
-**Quantitative Researcher & Trader** — [D. E. Shaw](https://www.deshaw.com/) · [IBK Securities](https://www.ibks.com/) · NH Hedge Asset Management · [Hanyang Securities](https://www.hygood.co.kr/) · *May 2027 – Aug 2027*  
+**Quantitative Researcher & Trader** — [D. E. Shaw](https://www.deshaw.com/) · [IBK Securities](https://www.ibks.com/) · NH Hedge Asset Management · *May 2027 – Aug 2027*  
 *Offer Received*
 
 **Software Engineer** — [Extriver Partners](https://extriver.com) · *May 2026 – Present*
