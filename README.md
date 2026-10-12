@@ -163,11 +163,9 @@
 ## 💼 Experience
 
 **Machine Learning Engineer** — [Extriver Partners](https://extriver.com) · *May 2026 – Present*
-- Analyzed follower bases and consumption patterns across creator partners — Instagram accounts of **18M, 2M and 100K** followers and a **500K-subscriber** YouTube channel — to size demand, audience geography and partnership fit for new products
-- Led software product management and development end to end: scoped, built and shipped creator-facing AI products and the company's internal research-to-execution workspace (real-time messaging, partner CRM, cloud drive, scheduling and market-intelligence tools)
-- Ran industry research and consumer-needs analysis to prioritize vertical-software concepts and define subscription, conversion and revenue-share models
-- Built financial tracking for software products — unit economics, revenue-share scenarios and LLM cost control through token budgeting, usage quotas, context caching and prompt optimization for low-cost inference
-- Owned continuous monitoring and performance improvement in production: live-sync and reconnection reliability, mobile UX and load performance, and iterative releases driven by user feedback
+- Analyzed audiences of creator partners (**18M / 2M / 100K** Instagram, **500K** YouTube) to size demand and product fit
+- Led product management and development of creator-facing AI products and the company's internal workspace
+- Tracked software unit economics, cut LLM costs with token budgets, usage quotas and caching, and monitored production performance
 
 **Data Science Intern** — [Paratus Investment](https://www.paratusinvestment.com/) · Seoul · *Feb 2025 – Aug 2025*  
 <sub>Reference &amp; Recommendation: [JungYeon (Andy) Kim](https://www.linkedin.com/in/jungyeon-andy-kim-90ab0a54), Vice President</sub>
