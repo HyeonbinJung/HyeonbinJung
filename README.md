@@ -102,6 +102,10 @@
 
 ## 🚀 Selected Projects
 
+[**Track Record**](https://github.com/HyeonbinJung/Track-Record) 📈
+Five years of my own broker-verified trading: **₩65.9M → ₩241.9M of total value ($49.3K → $181.1K) · 3.67× MOIC** — compounding at **34.3% a year time-weighted** (32.1% IRR) versus **15.1% for the KOSPI** and **14.8% for the S&P 500**, a **+19.2 pp annual edge** and **+22.4% Jensen's alpha**. **₩176.0M total profit** with an **87% hit rate**, **12.6× profit factor**, **Sharpe 0.94 / Sortino 2.20** and only **12 bp** all-in trading cost; best trade **+337%** (HD Hyundai Heavy Industries). Every won reconciles to the Kiwoom statements, published in Korean and English.
+<sub>🧰 Python · pdfplumber · pikepdf · openpyxl · TWR / Modified Dietz · XIRR · Sharpe / Sortino / Jensen α · KOSPI · S&P 500 · Nasdaq-100 benchmarks</sub>
+
 [**Automated-DCF-ML**](https://github.com/HyeonbinJung/Automated-DCF-ML)  
 Engineers SEC Company Facts / XBRL data and fits **Ridge & Elastic Net** forecasts for six value drivers (revenue growth, EBIT margin, tax, D&A, CapEx, NWC intensity); converts them to NOPAT and FCFF, then a DCF to enterprise / equity value and fair value per share. Chronological training (through 2018) and testing (2022+).  
 <sub>🧰 Python · scikit-learn · SciPy</sub>
