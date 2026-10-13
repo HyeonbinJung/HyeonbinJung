@@ -29,7 +29,7 @@
 - Tracked software unit economics, cut LLM costs with token budgets, usage quotas and caching, and monitored production performance
 
 **Data Science Intern** — [Paratus Investment](https://www.paratusinvestment.com/) · Seoul · *Feb 2025 – Aug 2025*  
-<sub>Reference &amp; Recommendation: [JungYeon (Andy) Kim](https://www.linkedin.com/in/jungyeon-andy-kim-90ab0a54), Vice President</sub>  
+<sub><mark>Reference &amp; Recommendation: [JungYeon (Andy) Kim](https://www.linkedin.com/in/jungyeon-andy-kim-90ab0a54), Vice President</mark></sub>  
 <img src="assets/rule.svg" width="100%" height="1">
 - Screened 24 private-company targets using Capital IQ and 160+ listed peers; built LTM / NTM EV/Revenue, EV/EBITDA and P/E comp sets with growth, margin and size adjustments
 - Automated peer selection, multiple refreshes and EV-to-equity bridges in Excel / xlwings / Python — **~40% fewer manual model updates**
@@ -42,7 +42,7 @@
 - Assessed Sunbo Industrial bolt-on targets, pro forma EBITDA and synergies; automated daily deal / industry news clipping and EML-based macro signals for portfolio review
 
 **FA Deal General Intern** — [Deloitte Korea](https://www.deloitte.com/kr/ko.html) · Seoul · *Jan 2023 – Feb 2023*  
-<sub>Reference &amp; Recommendation: [Sang-wook Nam](https://www.deloitte.com/kr/ko/about/people/profiles.sangnam+97cd9250.html), Managing Partner, Financial Advisory</sub>  
+<sub><mark>Reference &amp; Recommendation: [Sang-wook Nam](https://www.deloitte.com/kr/ko/about/people/profiles.sangnam+97cd9250.html), Managing Partner, Financial Advisory</mark></sub>  
 <img src="assets/rule.svg" width="100%" height="1">
 - Supported buy-side medical-device M&A diligence, analyzing revenue concentration, normalized EBITDA, working-capital movement and cash-flow conversion
 - Prepared peer screening and target comparisons; identified acquisition candidates with potential commercial synergies, financial risks and integration considerations
@@ -259,7 +259,7 @@ Product & business modeling — creator audience geography, engagement and secto
 <b>Bachelor of Computer Science</b> · <i>Cheriton School of Computer Science</i><br>
 <sub>🎓 Minors in Combinatorics &amp; Optimization and Economics</sub><br>
 <sub>📍 Ontario, Canada &nbsp;·&nbsp; 🗓️ Sep 2024 – Sep 2026</sub><br>
-<sub>Reference &amp; Recommendation: <a href="https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/tammy-schirle/index.html">Tammy Schirle</a>, Professor of Economics, Wilfrid Laurier University &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/jmread/">James Read</a>, Chair of Industrial Design, Massachusetts College of Art and Design</sub><br>
+<sub><mark>Reference &amp; Recommendation: <a href="https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/tammy-schirle/index.html">Tammy Schirle</a>, Professor of Economics, Wilfrid Laurier University &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/jmread/">James Read</a>, Chair of Industrial Design, Massachusetts College of Art and Design</mark></sub><br>
 <sub>🏛️ Clubs &amp; Societies: <b>Waterloo Quant Group (WQC)</b> &nbsp;·&nbsp; <b>SIG</b></sub><br><br>
 <sub><b>Relevant coursework</b></sub><br>
 <img src="https://img.shields.io/badge/MATH%20135%20·%20Algebra%20for%20Honours%20Mathematics-FFF0BF?style=flat-square" height="20"><br>
