@@ -54,6 +54,25 @@
 
 ---
 
+## 🔬 Research Experience
+
+**Researcher** — [Fact-based Economic Network (경제지식네트워크)](https://fenkorea.kr/bbs/bbsDetail.php?cid=events&idx=8933&up=2&ckattempt=2) · Seoul · *2022*  
+<sub>With Y. Min &amp; K. Ireh · presented at the Fact-based Economic Network</sub>  
+<img src="assets/rule.svg" width="100%" height="1">
+- Researched the practical effectiveness of proprietary-trading quant strategies in the Korean market
+- Analyzed why market-making strategies struggle to work in Korea, looking at the market structure and regulatory constraints they face
+- Studied the problems of Korea's inheritance-tax system and presented *Korea Inheritance Tax Story*
+
+**Undergraduate Researcher** — [University of Waterloo](https://uwaterloo.ca/) · Waterloo, ON  
+<img src="assets/rule.svg" width="100%" height="1">
+- Researched how machine-learning models are evaluated — validation design, out-of-sample testing and the metrics used to compare models
+
+**Invited Guest Researcher** — [Financial Academy](https://www.facademy.co.kr/notice/118?sst=wr_hit&sod=desc&sop=and&page=2) · Seoul · *2022*  
+<img src="assets/rule.svg" width="100%" height="1">
+- Invited as a guest to research financial-crisis regimes through past financial crises, and how AI can recognize and respond to crisis regimes in markets
+
+---
+
 ## 💻 Languages
 
 <p align="center">
