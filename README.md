@@ -29,7 +29,7 @@
 - Tracked software unit economics, cut LLM costs with token budgets, usage quotas and caching, and monitored production performance
 
 **Data Science Intern** — [Paratus Investment](https://www.paratusinvestment.com/) · Seoul · *Feb 2025 – Aug 2025*  
-<sub><mark>Reference &amp; Recommendation: [JungYeon (Andy) Kim](https://www.linkedin.com/in/jungyeon-andy-kim-90ab0a54), Vice President</mark></sub>  
+<sub><mark>Reference &amp; Recommendation: [JungYeon (Andy) Kim](https://www.linkedin.com/in/jungyeon-andy-kim-90ab0a54), Managing Director</mark></sub>  
 <img src="assets/rule.svg" width="100%" height="1">
 - Screened 24 private-company targets using Capital IQ and 160+ listed peers; built LTM / NTM EV/Revenue, EV/EBITDA and P/E comp sets with growth, margin and size adjustments
 - Automated peer selection, multiple refreshes and EV-to-equity bridges in Excel / xlwings / Python — **~40% fewer manual model updates**
