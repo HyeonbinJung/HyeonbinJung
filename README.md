@@ -92,6 +92,11 @@
   <img src="https://img.shields.io/badge/C-2.4%25-6B7F99?style=for-the-badge&logo=c&logoColor=black&labelColor=A8B9CC" height="28">
 </p>
 
+<p align="center">
+  <a href="https://github.com/HyeonbinJung"><img src="https://github-readme-stats.vercel.app/api?username=HyeonbinJung&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=8" height="170" alt="Hyeonbin Jung's GitHub Stats"></a>
+  <a href="https://github.com/HyeonbinJung?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonbinJung&layout=compact&langs_count=8&border_radius=8" height="170" alt="Most Used Languages"></a>
+</p>
+
 <p align="center"><b>🧰 Also working with</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,rust,ocaml,r,postgres,bash&theme=light" height="48" alt="C++ · Rust · OCaml · R · SQL · Shell"><br>
