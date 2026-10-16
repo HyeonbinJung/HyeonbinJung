@@ -129,6 +129,7 @@ Research program turning real-economy signals into testable alpha factors — a 
 
 [**MIDAS Terminal**](https://github.com/HyeonbinJung/Midas-Terminal)  
 Automated equity research terminal — ticker → market data → SEC EDGAR filings → financial analysis → peer comparison → rule-based catalysts & risks, exported as **English / Korean Word research reports**; async fetching with single-flight TTL caching and rate limiting.  
+<sub>In production use at [MIDAS Capital](https://www.linkedin.com/company/midas-capital-2026)</sub>  
 <sub>🧰 Python · FastAPI · JavaScript · Plotly · SQLite · SEC EDGAR</sub>
 
 [**Nanny Mira** — Child Temperament AI](https://github.com/HyeonbinJung/Child-Personality-Assessment-AI-Parenting-Advisor)  
