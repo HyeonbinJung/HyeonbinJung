@@ -42,7 +42,7 @@
 - Assessed Sunbo Industrial bolt-on targets, pro forma EBITDA and synergies; automated daily deal / industry news clipping and EML-based macro signals for portfolio review
 
 **FA Deal General Intern** — [Deloitte Korea](https://www.deloitte.com/kr/ko.html) · Seoul · *Jan 2023 – Feb 2023*  
-<sub><mark>Reference &amp; Recommendation: [Sang-wook Nam](https://www.deloitte.com/kr/ko/about/people/profiles.sangnam+97cd9250.html), Managing Partner, Financial Advisory</mark></sub>  
+<sub><mark>Reference &amp; Recommendation: [Sang-wook Nam](https://www.deloitte.com/kr/ko/about/people/profiles.sangnam+97cd9250.html), Managing Partner, Financial Advisory &nbsp;·&nbsp; [Byunghwa Kim](https://www.linkedin.com/in/byunghwa-kim-32511b103/), Partner, Financial Advisory (M&amp;A)</mark></sub>  
 <img src="assets/rule.svg" width="100%" height="1">
 - Supported buy-side medical-device M&A diligence, analyzing revenue concentration, normalized EBITDA, working-capital movement and cash-flow conversion
 - Prepared peer screening and target comparisons; identified acquisition candidates with potential commercial synergies, financial risks and integration considerations
