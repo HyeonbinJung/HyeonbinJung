@@ -14,10 +14,8 @@
 
 ---
 
-## 💼 Experience
-
 <details>
-<summary>View my work experience</summary>
+<summary><b>💼 Experience</b></summary>
 
 **Quantitative Researcher & Trader** — [D. E. Shaw](https://www.deshaw.com/) · [IBK Securities](https://www.ibks.com/) · [NH Hedge Asset Management](http://www.nhham.com/) · *May 2027 – Aug 2027*  
 <sub>Summer Internship · Offer Received</sub>  
@@ -59,10 +57,8 @@
 
 ---
 
-## 🔬 Research Experience
-
 <details>
-<summary>View my research experience</summary>
+<summary><b>🔬 Research Experience</b></summary>
 
 **Researcher** — [Fact-based Economic Network (경제지식네트워크)](https://fenkorea.kr/bbs/bbsDetail.php?cid=events&idx=8933&up=2&ckattempt=2) · Seoul · *2022*  
 <sub>With Y. Min &amp; K. Ireh · presented at the Fact-based Economic Network</sub>  
@@ -83,10 +79,8 @@
 
 ---
 
-## 💻 Languages
-
 <details>
-<summary>View my language stats</summary>
+<summary><b>💻 Languages</b></summary>
 
 <p align="center">
   <picture>
@@ -120,10 +114,8 @@
 
 ---
 
-## 🚀 Selected Projects
-
 <details>
-<summary>View my selected projects</summary>
+<summary><b>🚀 Selected Projects</b></summary>
 
 [**Track Record**](https://github.com/HyeonbinJung/Track-Record) 📈
 Five years of my own broker-verified trading: **₩65.9M → ₩241.9M of total value ($49.3K → $181.1K) · 3.67× MOIC** — compounding at **34.3% a year time-weighted** (32.1% IRR) versus **15.1% for the KOSPI** and **14.8% for the S&P 500**, a **+19.2 pp annual edge** and **+22.4% Jensen's alpha**. **₩176.0M total profit** with an **87% hit rate**, **12.6× profit factor**, **Sharpe 0.94 / Sortino 2.20** and only **12 bp** all-in trading cost; best trade **+337%** (HD Hyundai Heavy Industries). Every won reconciles to the Kiwoom statements, published in Korean and English.
@@ -168,10 +160,8 @@ Product & business modeling — creator audience geography, engagement and secto
 
 ---
 
-## 🧠 Machine Learning & Data
-
 <details>
-<summary>View my ML & data stack</summary>
+<summary><b>🧠 Machine Learning & Data</b></summary>
 
 **🔬 Modeling libraries**
 
@@ -276,10 +266,8 @@ Product & business modeling — creator audience geography, engagement and secto
 
 ---
 
-## 🎓 Education
-
 <details>
-<summary>View my education</summary>
+<summary><b>🎓 Education</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/Columbia%20University-B9D9EB?style=for-the-badge" height="28"><br>
