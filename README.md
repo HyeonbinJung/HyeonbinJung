@@ -49,6 +49,7 @@
 - Prepared peer screening and target comparisons; identified acquisition candidates with potential commercial synergies, financial risks and integration considerations
 
 **Private Equity Analyst Intern** — [Paratus Investment](https://www.paratusinvestment.com/) · Seoul · *Jun 2022 – Sep 2022*  
+<sub><mark>Reference: [정상억](https://www.linkedin.com/in/%EC%83%81%EC%96%B5-%EC%A0%95-67603855/), CEO</mark></sub>  
 <img src="assets/rule.svg" width="100%" height="1">
 - Built manufacturing-sector DCF models linking volume, pricing, margins, CapEx and NWC to FCFF, discounted terminal value and implied equity value
 - Standardized Excel valuation templates and automated research / market-news collection to update peer multiples, assumptions and deal-monitoring inputs
