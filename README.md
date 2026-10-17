@@ -14,7 +14,8 @@
 
 ---
 
-## 💼 Experience
+<details>
+<summary><h2>💼 Experience</h2></summary>
 
 **Quantitative Researcher & Trader** — [D. E. Shaw](https://www.deshaw.com/) · [IBK Securities](https://www.ibks.com/) · [NH Hedge Asset Management](http://www.nhham.com/) · *May 2027 – Aug 2027*  
 <sub>Summer Internship · Offer Received</sub>  
@@ -52,9 +53,12 @@
 - Built manufacturing-sector DCF models linking volume, pricing, margins, CapEx and NWC to FCFF, discounted terminal value and implied equity value
 - Standardized Excel valuation templates and automated research / market-news collection to update peer multiples, assumptions and deal-monitoring inputs
 
+</details>
+
 ---
 
-## 🔬 Research Experience
+<details>
+<summary><h2>🔬 Research Experience</h2></summary>
 
 **Researcher** — [Fact-based Economic Network (경제지식네트워크)](https://fenkorea.kr/bbs/bbsDetail.php?cid=events&idx=8933&up=2&ckattempt=2) · Seoul · *2022*  
 <sub>With Y. Min &amp; K. Ireh · presented at the Fact-based Economic Network</sub>  
@@ -71,9 +75,12 @@
 <img src="assets/rule.svg" width="100%" height="1">
 - Invited as a guest to research financial-crisis regimes through past financial crises, and how AI can recognize and respond to crisis regimes in markets
 
+</details>
+
 ---
 
-## 💻 Languages
+<details>
+<summary><h2>💻 Languages</h2></summary>
 
 <p align="center">
   <picture>
@@ -103,9 +110,12 @@
   <sub>C++ &nbsp;·&nbsp; Rust &nbsp;·&nbsp; OCaml &nbsp;·&nbsp; R &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Shell</sub>
 </p>
 
+</details>
+
 ---
 
-## 🚀 Selected Projects
+<details>
+<summary><h2>🚀 Selected Projects</h2></summary>
 
 [**Track Record**](https://github.com/HyeonbinJung/Track-Record) 📈
 Five years of my own broker-verified trading: **₩65.9M → ₩241.9M of total value ($49.3K → $181.1K) · 3.67× MOIC** — compounding at **34.3% a year time-weighted** (32.1% IRR) versus **15.1% for the KOSPI** and **14.8% for the S&P 500**, a **+19.2 pp annual edge** and **+22.4% Jensen's alpha**. **₩176.0M total profit** with an **87% hit rate**, **12.6× profit factor**, **Sharpe 0.94 / Sortino 2.20** and only **12 bp** all-in trading cost; best trade **+337%** (HD Hyundai Heavy Industries). Every won reconciles to the Kiwoom statements, published in Korean and English.
@@ -146,9 +156,12 @@ Product & business modeling — creator audience geography, engagement and secto
 <sub>Partners: [LoveSoo](https://www.instagram.com/lovesoo/), [TikTok](https://www.tiktok.com/@lovesoo) · [YouTube](https://www.youtube.com/@LOVESOO) · [Linktree](https://linktr.ee/lovesoo) &nbsp;·&nbsp; [Stick Stories](https://www.instagram.com/stick_storiess/) &nbsp;·&nbsp; [Илона Масельскене](https://www.instagram.com/ilonamaselskene/) &nbsp;·&nbsp; [Superdupercatai](https://www.instagram.com/superdupercatai/) &nbsp;·&nbsp; [틱톡★꽐루](https://www.youtube.com/@min_1923) &nbsp;·&nbsp; [Bushra](https://www.instagram.com/iamsecretgirl023/) &nbsp;·&nbsp; [BTS BORA WORLD (보라TV)](https://www.instagram.com/btsboraworld/), [TikTok](https://www.tiktok.com/@btsboraworld) &nbsp;·&nbsp; [Tushar Shetty](https://www.instagram.com/tusharshetty95/), [YouTube](https://www.youtube.com/@tusharshetty95) · [Facebook](https://www.facebook.com/tusharshetty95/)</sub>  
 <sub>🧰 Node.js · Socket.io · Cloudflare R2</sub>
 
+</details>
+
 ---
 
-## 🧠 Machine Learning & Data
+<details>
+<summary><h2>🧠 Machine Learning & Data</h2></summary>
 
 **🔬 Modeling libraries**
 
@@ -249,9 +262,12 @@ Product & business modeling — creator audience geography, engagement and secto
 - **🛰️ LLM applications** — RAG pipelines with vector search, LoRA / PEFT fine-tuning, real-time anomaly detection and research-grounded guidance
 - **💹 Finance** — DCF / FCFF · public comps · 3-statement & LBO · M&A diligence · EV-to-equity bridges
 
+</details>
+
 ---
 
-## 🎓 Education
+<details>
+<summary><h2>🎓 Education</h2></summary>
 
 <p>
 <img src="https://img.shields.io/badge/Columbia%20University-B9D9EB?style=for-the-badge" height="28"><br>
@@ -283,3 +299,5 @@ Product & business modeling — creator audience geography, engagement and secto
 <img src="https://img.shields.io/badge/BUS%20111W%20%28Laurier%20BU111%29%20·%20Understanding%20the%20Business%20Environment-FFF0BF?style=flat-square" height="20"><br><br>
 <sub>🎯 Combined GPA <b>3.53 / 4.00</b> (self-calculated) &nbsp;·&nbsp; ➕ External coursework 19 credits (UMass Global 13, BYU 6)</sub>
 </p>
+
+</details>
