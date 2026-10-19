@@ -100,6 +100,11 @@
 
 </details>
 
+<p align="center">
+  <a href="https://github.com/HyeonbinJung/HyeonbinJung/raw/refs/heads/main/assets/employment-verification-nps-redacted.pdf?download=1"><b>⬇️ Download Employment Verification (PDF)</b></a><br>
+  <sub>National Pension Service enrollment history (South Korea) · Personal identifiers redacted</sub>
+</p>
+
 ---
 
 <details>
