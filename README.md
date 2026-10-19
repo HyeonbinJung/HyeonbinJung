@@ -272,7 +272,9 @@ Product & business modeling — creator audience geography, engagement and secto
 <details>
 <summary><b>🎓 Education</b></summary>
 
-<p>
+<table><tr>
+<td width="96" align="center" valign="top"><img src="assets/columbia.png" height="72" alt="Columbia University"></td>
+<td valign="top">
 <img src="https://img.shields.io/badge/Columbia%20University-B9D9EB?style=for-the-badge" height="28"><br>
 <b>Bachelor of Computer Science – Mathematics</b> · <i>Department of Mathematics</i><br>
 <sub>🎓 Minor in Statistics</sub><br>
@@ -281,9 +283,12 @@ Product & business modeling — creator audience geography, engagement and secto
 <sub><b>Relevant coursework</b></sub><br>
 <img src="https://img.shields.io/badge/MATH%20UN1201%20·%20Calculus%20III-DCEEF8?style=flat-square" height="20"><br>
 <img src="https://img.shields.io/badge/STAT%20UN2102%20·%20Applied%20Statistical%20Computing-DCEEF8?style=flat-square" height="20">
-</p>
+</td>
+</tr></table>
 
-<p>
+<table><tr>
+<td width="96" align="center" valign="top"><img src="assets/waterloo.png" height="72" alt="University of Waterloo"></td>
+<td valign="top">
 <img src="https://img.shields.io/badge/University%20of%20Waterloo-FED34C?style=for-the-badge" height="28"><br>
 <b>Bachelor of Computer Science</b> · <i>Cheriton School of Computer Science</i><br>
 <sub>🎓 Minors in Combinatorics &amp; Optimization and Economics</sub><br>
@@ -301,6 +306,7 @@ Product & business modeling — creator audience geography, engagement and secto
 <img src="https://img.shields.io/badge/ECON%20102%20·%20Introduction%20to%20Macroeconomics-FFF0BF?style=flat-square" height="20"><br>
 <img src="https://img.shields.io/badge/BUS%20111W%20%28Laurier%20BU111%29%20·%20Understanding%20the%20Business%20Environment-FFF0BF?style=flat-square" height="20"><br><br>
 <sub>🎯 Combined GPA <b>3.53 / 4.00</b> (self-calculated) &nbsp;·&nbsp; ➕ External coursework 19 credits (UMass Global 13, BYU 6)</sub>
-</p>
+</td>
+</tr></table>
 
 </details>
