@@ -25,11 +25,22 @@
 - Will design systematic quantitative strategies for market analysis — engineering alpha signals from price, order-flow, volatility and fundamental data, and validating them with leak-free walk-forward backtests, transaction-cost modeling and factor-level risk attribution
 - Will build investment logic supporting proprietary trading — turning research into rule-based entry / exit, position-sizing and risk-limit frameworks, and monitoring live P&L, exposures and regime shifts to iterate on models in production
 
+<table><tr>
+<td width="132" align="center" valign="top"><img src="assets/co-extriver.png" width="120" alt="Extriver Partners"></td>
+<td valign="top">
+
 **Software Engineer** — [Extriver Partners](https://extriver.com) · *May 2026 – Present*  
 <img src="assets/rule.svg" width="100%" height="1">
 - Analyzed audiences of creator partners (**18M / 2M / 100K** Instagram, **500K** YouTube) to size demand and product fit
 - Led product management and development of creator-facing AI products and the company's internal workspace
 - Tracked software unit economics, cut LLM costs with token budgets, usage quotas and caching, and monitored production performance
+
+</td>
+</tr></table>
+
+<table><tr>
+<td width="132" align="center" valign="top"><img src="assets/co-paratus.png" width="120" alt="Paratus Investment"></td>
+<td valign="top">
 
 **Data Science Intern** — [Paratus Investment](https://www.paratusinvestment.com/) · Seoul · *Feb 2025 – Aug 2025*  
 <sub><mark>Reference &amp; Recommendation: [JungYeon (Andy) Kim](https://www.linkedin.com/in/jungyeon-andy-kim-90ab0a54), Managing Director</mark></sub>  
@@ -38,11 +49,25 @@
 - Automated peer selection, multiple refreshes and EV-to-equity bridges in Excel / xlwings / Python — **~40% fewer manual model updates**
 - Built five-year FCFF / DCF cases with WACC, terminal-growth and exit-multiple methods; analyzed revenue, EBIT margin, CapEx and NWC sensitivities for transaction pricing
 
+</td>
+</tr></table>
+
+<table><tr>
+<td width="132" align="center" valign="top"><img src="assets/co-yuanta.png" width="120" alt="Yuanta Investment"></td>
+<td valign="top">
+
 **Private Equity Analyst/Data Science Intern** — [Yuanta Investment](http://yuantainvest.com/) · Seoul · *Oct 2024 – Feb 2025*  
 <img src="assets/rule.svg" width="100%" height="1">
 - Valued private companies using 10–15 relevant public peers, normalized EBITDA and trading multiples; supported valuation exhibits and investment committee (IC) reports
 - Built operating and LBO models for prospective investments, stress-testing entry / exit EV/EBITDA, debt paydown, leverage and sponsor IRR / MOIC under base and downside cases
 - Assessed Sunbo Industrial bolt-on targets, pro forma EBITDA and synergies; automated daily deal / industry news clipping and EML-based macro signals for portfolio review
+
+</td>
+</tr></table>
+
+<table><tr>
+<td width="132" align="center" valign="top"><img src="assets/co-deloitte.png" width="120" alt="Deloitte"></td>
+<td valign="top">
 
 **FA Deal General Intern** — [Deloitte Korea](https://www.deloitte.com/kr/ko.html) · Seoul · *Jan 2023 – Feb 2023*  
 <sub><mark>Reference &amp; Recommendation: [Sang-wook Nam](https://www.deloitte.com/kr/ko/about/people/profiles.sangnam+97cd9250.html), Managing Partner, Financial Advisory &nbsp;·&nbsp; [Byunghwa Kim](https://www.linkedin.com/in/byunghwa-kim-32511b103/), Partner, Financial Advisory (M&amp;A)</mark></sub>  
@@ -50,11 +75,21 @@
 - Supported buy-side medical-device M&A diligence, analyzing revenue concentration, normalized EBITDA, working-capital movement and cash-flow conversion
 - Prepared peer screening and target comparisons; identified acquisition candidates with potential commercial synergies, financial risks and integration considerations
 
+</td>
+</tr></table>
+
+<table><tr>
+<td width="132" align="center" valign="top"><img src="assets/co-paratus.png" width="120" alt="Paratus Investment"></td>
+<td valign="top">
+
 **Private Equity Analyst Intern** — [Paratus Investment](https://www.paratusinvestment.com/) · Seoul · *Jun 2022 – Sep 2022*  
 <sub><mark>Reference: [정상억](https://www.linkedin.com/in/%EC%83%81%EC%96%B5-%EC%A0%95-67603855/), CEO</mark></sub>  
 <img src="assets/rule.svg" width="100%" height="1">
 - Built manufacturing-sector DCF models linking volume, pricing, margins, CapEx and NWC to FCFF, discounted terminal value and implied equity value
 - Standardized Excel valuation templates and automated research / market-news collection to update peer multiples, assumptions and deal-monitoring inputs
+
+</td>
+</tr></table>
 
 </details>
 
