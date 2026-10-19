@@ -222,6 +222,11 @@ Product & business modeling — creator audience geography, engagement and secto
 <sub>Partners: [LoveSoo](https://www.instagram.com/lovesoo/), [TikTok](https://www.tiktok.com/@lovesoo) · [YouTube](https://www.youtube.com/@LOVESOO) · [Linktree](https://linktr.ee/lovesoo) &nbsp;·&nbsp; [Stick Stories](https://www.instagram.com/stick_storiess/) &nbsp;·&nbsp; [Илона Масельскене](https://www.instagram.com/ilonamaselskene/) &nbsp;·&nbsp; [Superdupercatai](https://www.instagram.com/superdupercatai/) &nbsp;·&nbsp; [틱톡★꽐루](https://www.youtube.com/@min_1923) &nbsp;·&nbsp; [Bushra](https://www.instagram.com/iamsecretgirl023/) &nbsp;·&nbsp; [BTS BORA WORLD (보라TV)](https://www.instagram.com/btsboraworld/), [TikTok](https://www.tiktok.com/@btsboraworld) &nbsp;·&nbsp; [Tushar Shetty](https://www.instagram.com/tusharshetty95/), [YouTube](https://www.youtube.com/@tusharshetty95) · [Facebook](https://www.facebook.com/tusharshetty95/)</sub>  
 <sub>🧰 Node.js · Socket.io · Cloudflare R2</sub>
 
+<table><tr>
+<td width="50%"><a href="assets/extriver-product1.mp4"><img src="assets/extriver-product1.webp" width="100%" alt="Extriver product demo 1"></a></td>
+<td width="50%"><a href="assets/extriver-product2.mp4"><img src="assets/extriver-product2.webp" width="100%" alt="Extriver product demo 2"></a></td>
+</tr></table>
+
 </details>
 
 ---
