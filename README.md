@@ -23,7 +23,7 @@
 <td width="132" align="center" valign="top"><img src="assets/co-deshaw.png" width="120" alt="D. E. Shaw"><br><img src="assets/co-ibk.png" width="120" alt="IBK Securities"><br><img src="assets/co-nh.png" width="120" alt="NH Hedge Asset Management"></td>
 <td valign="top">
 
-**Quantitative Researcher & Trader** — [D. E. Shaw](https://www.deshaw.com/) · [IBK Securities](https://www.ibks.com/) · [NH Hedge Asset Management](http://www.nhham.com/) · *May 2027 – Aug 2027*  
+**Quantitative Researcher & Trader** — [D. E. Shaw](https://www.deshaw.com/) · [IBK Securities](https://www.ibks.com/) · [NH Hedge Asset Management](http://www.nhham.com/) · [Hanyang Securities](https://www.hygood.co.kr/) · *May 2027 – Aug 2027*  
 <sub>Summer Internship · Offer Received</sub>  
 <img src="assets/rule.svg" width="100%" height="1">
 - Will design systematic quantitative strategies for market analysis — engineering alpha signals from price, order-flow, volatility and fundamental data, and validating them with leak-free walk-forward backtests, transaction-cost modeling and factor-level risk attribution
