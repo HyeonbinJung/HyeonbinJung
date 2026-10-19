@@ -336,7 +336,7 @@ Product & business modeling — creator audience geography, engagement and secto
 <summary><b>🎓 Education</b></summary>
 
 <table><tr>
-<td width="96" align="center" valign="top"><img src="assets/columbia.png" height="72" alt="Columbia University"></td>
+<td width="96" align="center" valign="top"><img src="assets/columbia.png" height="88" alt="Columbia University"></td>
 <td valign="top">
 <img src="https://img.shields.io/badge/Columbia%20University-B9D9EB?style=for-the-badge" height="28"><br>
 <b>Bachelor of Computer Science – Mathematics</b> · <i>Department of Mathematics</i><br>
@@ -350,7 +350,7 @@ Product & business modeling — creator audience geography, engagement and secto
 </tr></table>
 
 <table><tr>
-<td width="96" align="center" valign="top"><img src="assets/waterloo.png" height="72" alt="University of Waterloo"></td>
+<td width="96" align="center" valign="top"><img src="assets/waterloo.png" height="88" alt="University of Waterloo"></td>
 <td valign="top">
 <img src="https://img.shields.io/badge/University%20of%20Waterloo-FED34C?style=for-the-badge" height="28"><br>
 <b>Bachelor of Computer Science</b> · <i>Cheriton School of Computer Science</i><br>
