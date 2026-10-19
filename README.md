@@ -20,7 +20,7 @@
 <summary><b>💼 Experience</b></summary>
 
 <table><tr>
-<td width="132" align="center" valign="top"><img src="assets/co-deshaw.png" width="120" alt="D. E. Shaw"><br><img src="assets/co-ibk.png" width="120" alt="IBK Securities"><br><img src="assets/co-nh.png" width="120" alt="NH Hedge Asset Management"></td>
+<td width="132" align="center" valign="top"><img src="assets/co-deshaw.png" width="120" alt="D. E. Shaw"><br><img src="assets/co-ibk.png" width="120" alt="IBK Securities"><br><img src="assets/co-nh.png" width="120" alt="NH Hedge Asset Management"><br><img src="assets/co-hanyang.png" width="120" alt="Hanyang Securities"></td>
 <td valign="top">
 
 **Quantitative Researcher & Trader** — [D. E. Shaw](https://www.deshaw.com/) · [IBK Securities](https://www.ibks.com/) · [NH Hedge Asset Management](http://www.nhham.com/) · [Hanyang Securities](https://www.hygood.co.kr/) · *May 2027 – Aug 2027*  
