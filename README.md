@@ -1,8 +1,5 @@
-<h1 align="center">Hyeonbin Jung</h1>
-
 <p align="center">
-  <b>Computer Science & Mathematics @ Columbia University</b><br>
-  Machine learning for finance · Quantitative research · Software engineering<br>
+  <img src="assets/header.jpg" width="100%" alt="Hyeonbin Jung — Computer Science & Mathematics @ Columbia University · Machine learning for finance · Quantitative research · Software engineering">
 </p>
 
 <p align="center">
