@@ -185,30 +185,72 @@
 <details>
 <summary><b>🚀 Selected Projects</b></summary>
 
+<table><tr><td>
+
 [**Track Record**](https://github.com/HyeonbinJung/Track-Record) 📈
+
+</td></tr><tr><td>
+
 Five years of my own broker-verified trading: **₩65.9M → ₩241.9M of total value ($49.3K → $181.1K) · 3.67× MOIC** — compounding at **34.3% a year time-weighted** (32.1% IRR) versus **15.1% for the KOSPI** and **14.8% for the S&P 500**, a **+19.2 pp annual edge** and **+22.4% Jensen's alpha**. **₩176.0M total profit** with an **87% hit rate**, **12.6× profit factor**, **Sharpe 0.94 / Sortino 2.20** and only **12 bp** all-in trading cost; best trade **+337%** (HD Hyundai Heavy Industries). Every won reconciles to the Kiwoom statements, published in Korean and English.
 <sub>🧰 Python · pdfplumber · pikepdf · openpyxl · TWR / Modified Dietz · XIRR · Sharpe / Sortino / Jensen α · KOSPI · S&P 500 · Nasdaq-100 benchmarks</sub>
 
-[**Automated-DCF-ML**](https://github.com/HyeonbinJung/Automated-DCF-ML)  
+</td></tr></table>
+
+<table><tr><td>
+
+[**Automated-DCF-ML**](https://github.com/HyeonbinJung/Automated-DCF-ML)
+
+</td></tr><tr><td>
+
 Engineers SEC Company Facts / XBRL data and fits **Ridge & Elastic Net** forecasts for six value drivers (revenue growth, EBIT margin, tax, D&A, CapEx, NWC intensity); converts them to NOPAT and FCFF, then a DCF to enterprise / equity value and fair value per share. Chronological training (through 2018) and testing (2022+).  
 <sub>🧰 Python · scikit-learn · SciPy</sub>
 
-[**InsightStream**](https://github.com/HyeonbinJung/InsightStream) ⭐  
+</td></tr></table>
+
+<table><tr><td>
+
+[**InsightStream**](https://github.com/HyeonbinJung/InsightStream) ⭐
+
+</td></tr><tr><td>
+
 DigitalOcean Gradient™ AI Hackathon — AI observability platform that streams logs through Kafka and uses Llama 3 to detect anomalies and summarize incidents in real time.  
 <sub>🧰 Kotlin · Spring Boot · Kafka · Next.js</sub>
 
-[**Signals to Alpha**](https://github.com/HyeonbinJung/Signals-to-Alpha)  
+</td></tr></table>
+
+<table><tr><td>
+
+[**Signals to Alpha**](https://github.com/HyeonbinJung/Signals-to-Alpha)
+
+</td></tr><tr><td>
+
 Research program turning real-economy signals into testable alpha factors — a U.S. K-Food alternative-data factor model with point-in-time signals, placebo tests and bias audits.  
 <sub>🧰 Python · statsmodels · SciPy · Jupyter</sub>
 
-[**Superdupercatai**](https://www.instagram.com/superdupercatai/)  
+</td></tr></table>
+
+<table><tr><td>
+
+[**Superdupercatai**](https://www.instagram.com/superdupercatai/)
+
+</td></tr><tr><td>
+
 AI comics & animation channel — AI-generated content production, growth and monetization analytics (**70K followers, 20M peak views, ~1M average views / video**).  
 <sub>🧰 Generative AI · content analytics</sub>
 
-[**Extriver Partners**](https://extriver.com)  
+</td></tr></table>
+
+<table><tr><td>
+
+[**Extriver Partners**](https://extriver.com)
+
+</td></tr><tr><td>
+
 Product & business modeling — creator audience geography, engagement and sector demand to evaluate vertical-software concepts; subscription, conversion and revenue-share scenarios; internal partner pipeline and research-to-execution workspace. Distribution tested through an owned short-form account (**70K followers, 20M peak views, ~1M average views / video**).  
 <sub>Partners: [LoveSoo](https://www.instagram.com/lovesoo/), [TikTok](https://www.tiktok.com/@lovesoo) · [YouTube](https://www.youtube.com/@LOVESOO) · [Linktree](https://linktr.ee/lovesoo) &nbsp;·&nbsp; [Stick Stories](https://www.instagram.com/stick_storiess/) &nbsp;·&nbsp; [Илона Масельскене](https://www.instagram.com/ilonamaselskene/) &nbsp;·&nbsp; [Superdupercatai](https://www.instagram.com/superdupercatai/) &nbsp;·&nbsp; [틱톡★꽐루](https://www.youtube.com/@min_1923) &nbsp;·&nbsp; [Bushra](https://www.instagram.com/iamsecretgirl023/) &nbsp;·&nbsp; [BTS BORA WORLD (보라TV)](https://www.instagram.com/btsboraworld/), [TikTok](https://www.tiktok.com/@btsboraworld) &nbsp;·&nbsp; [Tushar Shetty](https://www.instagram.com/tusharshetty95/), [YouTube](https://www.youtube.com/@tusharshetty95) · [Facebook](https://www.facebook.com/tusharshetty95/)</sub>  
 <sub>🧰 Node.js · Socket.io · Cloudflare R2</sub>
+
+</td></tr></table>
 
 <table><tr>
 <td width="50%"><a href="assets/extriver-product1.mp4"><img src="assets/extriver-product1.webp" width="100%" alt="Extriver product demo 1"></a></td>
