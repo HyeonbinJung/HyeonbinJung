@@ -197,23 +197,9 @@ Engineers SEC Company Facts / XBRL data and fits **Ridge & Elastic Net** forecas
 DigitalOcean Gradient™ AI Hackathon — AI observability platform that streams logs through Kafka and uses Llama 3 to detect anomalies and summarize incidents in real time.  
 <sub>🧰 Kotlin · Spring Boot · Kafka · Next.js</sub>
 
-[**Revenue Dip Lab**](https://github.com/HyeonbinJung/Revenue-Dip-Lab)  
-Backtests buying companies with resilient revenue after sharp price drawdowns — five-panel research workspace, 3D CAGR surface sweeps and out-of-sample factor search on SEC EDGAR + Yahoo Finance data.  
-<sub>🧰 Python · FastAPI · JavaScript · Web Workers · SQLite</sub>
-
 [**Signals to Alpha**](https://github.com/HyeonbinJung/Signals-to-Alpha)  
 Research program turning real-economy signals into testable alpha factors — a U.S. K-Food alternative-data factor model with point-in-time signals, placebo tests and bias audits.  
 <sub>🧰 Python · statsmodels · SciPy · Jupyter</sub>
-
-[**MIDAS Terminal**](https://github.com/HyeonbinJung/Midas-Terminal)  
-Automated equity research terminal — ticker → market data → SEC EDGAR filings → financial analysis → peer comparison → rule-based catalysts & risks, exported as **English / Korean Word research reports**; async fetching with single-flight TTL caching and rate limiting.  
-<sub>In production use at [MIDAS Capital](https://www.linkedin.com/company/midas-capital-2026)</sub>  
-<sub>🧰 Python · FastAPI · JavaScript · Plotly · SQLite · SEC EDGAR</sub>
-
-[**Nanny Mira** — Child Temperament AI](https://github.com/HyeonbinJung/Child-Personality-Assessment-AI-Parenting-Advisor)  
-Parent-reported child temperament web app in **4 languages** (KO / EN / RU / PT-BR): an age-adapted 28-question assessment, 40 expandable analysis cards and **DeepSeek LLM** parenting guidance grounded with PubMed references; Prodamus card checkout.  
-<sub>Represented by: [Илона Масельскене](https://www.instagram.com/ilonamaselskene/), Russia partner</sub>  
-<sub>🧰 Node.js · DeepSeek API · Low-Cost LLM Inference · RAG · Prompt Optimization · Context Caching · Token Budgeting · Usage Quotas</sub>
 
 [**Superdupercatai**](https://www.instagram.com/superdupercatai/)  
 AI comics & animation channel — AI-generated content production, growth and monetization analytics (**70K followers, 20M peak views, ~1M average views / video**).  
